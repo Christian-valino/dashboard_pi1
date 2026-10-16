@@ -1,0 +1,678 @@
+﻿cdv,cdv_numero,via,sentido,funcao,grupo_funcao,local,tipo_local,terminal,status,prefixo_terminal,terminal_suspeito
+1N08T,8,Via 1,Norte,NCTP,Codificação,Locação 1,Locação,LB B-01,Conectado,LB,False
+1N08T,8,Via 1,Norte,SCTP,Codificação,Locação 1,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,N12-CTP,Codificação,Locação 1,Locação,LB A-17,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPR,Indicação,Locação 1,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,TPRN,Indicação,Locação 1,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,NCTP,Codificação,Locação 2,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,SCTP,Codificação,Locação 2,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,N12-CTP,Codificação,Locação 2,Locação,LB A-35,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPR,Indicação,Locação 2,Locação,LB AA-16,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPRN,Indicação,Locação 2,Locação,LB AA-17,Conectado,LB,False
+1N08T,8,Via 1,Norte,NCTP,Codificação,Locação 3,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,SCTP,Codificação,Locação 3,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,N12-CTP,Codificação,Locação 3,Locação,LB A-21,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPR,Indicação,Locação 3,Locação,LB BB-7,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPRN,Indicação,Locação 3,Locação,LB BB-8,Conectado,LB,False
+1N08T,8,Via 1,Norte,NCTP,Codificação,Locação 4,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,SCTP,Codificação,Locação 4,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,N12-CTP,Codificação,Locação 4,Locação,LB A-19,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPR,Indicação,Locação 4,Locação,LB AA-5,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPRN,Indicação,Locação 4,Locação,LB AA-6,Conectado,LB,False
+1N08T,8,Via 1,Norte,NCTP,Codificação,Locação 5,Locação,LC D-03,Conectado,LC,False
+1N08T,8,Via 1,Norte,SCTP,Codificação,Locação 5,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,N12-CTP,Codificação,Locação 5,Locação,LB A-19,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPR,Indicação,Locação 5,Locação,LB BB-1,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPRN,Indicação,Locação 5,Locação,LB BB-2,Conectado,LB,False
+1N08T,8,Via 1,Norte,NCTP,Codificação,Locação 6,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,SCTP,Codificação,Locação 6,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,N12-CTP,Codificação,Locação 6,Locação,LB A-25,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPR,Indicação,Locação 6,Locação,LB BB-9,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPRN,Indicação,Locação 6,Locação,LB BB-10,Conectado,LB,False
+1N08T,8,Via 1,Norte,NCTP,Codificação,Locação 7,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,SCTP,Codificação,Locação 7,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,N12-CTP,Codificação,Locação 7,Locação,LB A-29,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPR,Indicação,Locação 7,Locação,LB BB-9,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPRN,Indicação,Locação 7,Locação,LB BB-10,Conectado,LB,False
+1N08T,8,Via 1,Norte,NCTP,Codificação,Locação 10,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,SCTP,Codificação,Locação 10,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,N12-CTP,Codificação,Locação 10,Locação,LB A-21,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPR,Indicação,Locação 10,Locação,LC AA-3,Conectado,LC,False
+1N08T,8,Via 1,Norte,TPRN,Indicação,Locação 10,Locação,LC AA-4,Conectado,LC,False
+1N08T,8,Via 1,Norte,NCTP,Codificação,Locação 13,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,SCTP,Codificação,Locação 13,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,N12-CTP,Codificação,Locação 13,Locação,,Sem conexão,,False
+1N08T,8,Via 1,Norte,TPR,Indicação,Locação 13,Locação,LB AA-9,Conectado,LB,False
+1N08T,8,Via 1,Norte,TPRN,Indicação,Locação 13,Locação,LB AA-10,Conectado,LB,False
+1N08T,8,Via 1,Norte,NCTP,Codificação,Armário TB,Armário TB,TB2-D10,Conectado,TB,False
+1N08T,8,Via 1,Norte,SCTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1N08T,8,Via 1,Norte,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1N08T,8,Via 1,Norte,TPR,Indicação,Armário TB,Armário TB,,Sem conexão,,False
+1N08T,8,Via 1,Norte,TPRN,Indicação,Armário TB,Armário TB,,Sem conexão,,False
+1N08T,8,Via 1,Norte,NCTP,Codificação,Interface 2,Interface 2,B02 21,Conectado,Interface (B),False
+1N08T,8,Via 1,Norte,SCTP,Codificação,Interface 2,Interface 2,,Sem conexão,,False
+1N08T,8,Via 1,Norte,N12-CTP,Codificação,Interface 2,Interface 2,B11 26,Conectado,Interface (B),False
+1N08T,8,Via 1,Norte,TPR,Indicação,Interface 2,Interface 2,B59 01,Conectado,Interface (B),False
+1N08T,8,Via 1,Norte,TPRN,Indicação,Interface 2,Interface 2,B59 02,Conectado,Interface (B),False
+1N10T,10,Via 1,Norte,NCTP,Codificação,Locação 3,Locação,,Sem conexão,,False
+1N10T,10,Via 1,Norte,SCTP,Codificação,Locação 3,Locação,LB A-23,Conectado,LB,False
+1N10T,10,Via 1,Norte,SCTP,Codificação,Locação 3,Locação,LB B-22,Conectado,LB,False
+1N10T,10,Via 1,Norte,N12-CTP,Codificação,Locação 3,Locação,LB A-21,Conectado,LB,False
+1N10T,10,Via 1,Norte,TPR,Indicação,Locação 3,Locação,LB B-24,Conectado,LB,False
+1N10T,10,Via 1,Norte,TPRN,Indicação,Locação 3,Locação,LB B-26,Conectado,LB,False
+1N10T,10,Via 1,Norte,NCTP,Codificação,Locação 5,Locação,LB A-20,Conectado,LB,False
+1N10T,10,Via 1,Norte,NCTP,Codificação,Locação 5,Locação,LB B-11,Conectado,LB,False
+1N10T,10,Via 1,Norte,SCTP,Codificação,Locação 5,Locação,LC B-33,Conectado,LC,False
+1N10T,10,Via 1,Norte,N12-CTP,Codificação,Locação 5,Locação,LB A-19,Conectado,LB,False
+1N10T,10,Via 1,Norte,TPR,Indicação,Locação 5,Locação,LC B-35,Conectado,LC,False
+1N10T,10,Via 1,Norte,TPRN,Indicação,Locação 5,Locação,LC B-37,Conectado,LC,False
+1N10T,10,Via 1,Norte,NCTP,Codificação,Armário TB,Armário TB,TB3-B28,Conectado,TB,False
+1N10T,10,Via 1,Norte,SCTP,Codificação,Armário TB,Armário TB,TB2-A22,Conectado,TB,False
+1N10T,10,Via 1,Norte,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1N10T,10,Via 1,Norte,TPR,Indicação,Armário TB,Armário TB,TB3-C45,Conectado,TB,False
+1N10T,10,Via 1,Norte,TPRN,Indicação,Armário TB,Armário TB,TB3-46,Conectado,TB,True
+1N10T,10,Via 1,Norte,NCTP,Codificação,Interface 2,Interface 2,B04 21,Conectado,Interface (B),False
+1N10T,10,Via 1,Norte,SCTP,Codificação,Interface 2,Interface 2,B04 23,Conectado,Interface (B),False
+1N10T,10,Via 1,Norte,N12-CTP,Codificação,Interface 2,Interface 2,B04 26,Conectado,Interface (B),False
+1N10T,10,Via 1,Norte,TPR,Indicação,Interface 2,Interface 2,B04 30,Conectado,Interface (B),False
+1N10T,10,Via 1,Norte,TPRN,Indicação,Interface 2,Interface 2,B04 31,Conectado,Interface (B),False
+1S13T,13,Via 1,Sul,NCTP,Codificação,Locação 8,Locação,,Sem conexão,,False
+1S13T,13,Via 1,Sul,SCTP,Codificação,Locação 8,Locação,LB A-46,Conectado,LB,False
+1S13T,13,Via 1,Sul,N12-CTP,Codificação,Locação 8,Locação,LB A-25,Conectado,LB,False
+1S13T,13,Via 1,Sul,TPR,Indicação,Locação 8,Locação,LB B-1,Conectado,LB,False
+1S13T,13,Via 1,Sul,TPRN,Indicação,Locação 8,Locação,LB B-3,Conectado,LB,False
+1S13T,13,Via 1,Sul,NCTP,Codificação,Locação 10,Locação,LB A-31,Conectado,LB,False
+1S13T,13,Via 1,Sul,SCTP,Codificação,Locação 10,Locação,,Sem conexão,,False
+1S13T,13,Via 1,Sul,N12-CTP,Codificação,Locação 10,Locação,LB A-21,Conectado,LB,False
+1S13T,13,Via 1,Sul,TPR,Indicação,Locação 10,Locação,,Sem conexão,,False
+1S13T,13,Via 1,Sul,TPRN,Indicação,Locação 10,Locação,,Sem conexão,,False
+1S13T,13,Via 1,Sul,NCTP,Codificação,Armário TB,Armário TB,TB3-A51,Conectado,TB,False
+1S13T,13,Via 1,Sul,SCTP,Codificação,Armário TB,Armário TB,TB2-B3,Conectado,TB,False
+1S13T,13,Via 1,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1S13T,13,Via 1,Sul,TPR,Indicação,Armário TB,Armário TB,TB2-D16,Conectado,TB,False
+1S13T,13,Via 1,Sul,TPRN,Indicação,Armário TB,Armário TB,TB2-D17,Conectado,TB,False
+1S13T,13,Via 1,Sul,NCTP,Codificação,Interface 2,Interface 2,B27 21,Conectado,Interface (B),False
+1S13T,13,Via 1,Sul,SCTP,Codificação,Interface 2,Interface 2,B27 23,Conectado,Interface (B),False
+1S13T,13,Via 1,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B27 26,Conectado,Interface (B),False
+1S13T,13,Via 1,Sul,TPR,Indicação,Interface 2,Interface 2,B27 30,Conectado,Interface (B),False
+1S13T,13,Via 1,Sul,TPRN,Indicação,Interface 2,Interface 2,B27 31,Conectado,Interface (B),False
+2N07T,7,Via 2,Norte,NCTP,Codificação,Locação 2,Locação,LC AA-14,Conectado,LC,False
+2N07T,7,Via 2,Norte,SCTP,Codificação,Locação 2,Locação,LB B-17,Conectado,LB,False
+2N07T,7,Via 2,Norte,N12-CTP,Codificação,Locação 2,Locação,LB A-35,Conectado,LB,False
+2N07T,7,Via 2,Norte,TPR,Indicação,Locação 2,Locação,LB B-19,Conectado,LB,False
+2N07T,7,Via 2,Norte,TPRN,Indicação,Locação 2,Locação,LB B-21,Conectado,LB,False
+2N07T,7,Via 2,Norte,NCTP,Codificação,Locação 3,Locação,LB A-26,Conectado,LB,False
+2N07T,7,Via 2,Norte,SCTP,Codificação,Locação 3,Locação,,Sem conexão,,False
+2N07T,7,Via 2,Norte,N12-CTP,Codificação,Locação 3,Locação,LB A-21,Conectado,LB,False
+2N07T,7,Via 2,Norte,TPR,Indicação,Locação 3,Locação,,Sem conexão,,False
+2N07T,7,Via 2,Norte,TPRN,Indicação,Locação 3,Locação,,Sem conexão,,False
+2N07T,7,Via 2,Norte,NCTP,Codificação,Locação 5,Locação,LC B-31,Conectado,LC,False
+2N07T,7,Via 2,Norte,SCTP,Codificação,Locação 5,Locação,LC C-21,Conectado,LC,False
+2N07T,7,Via 2,Norte,N12-CTP,Codificação,Locação 5,Locação,LB A-19,Conectado,LB,False
+2N07T,7,Via 2,Norte,TPR,Indicação,Locação 5,Locação,LC C-23,Conectado,LC,False
+2N07T,7,Via 2,Norte,TPRN,Indicação,Locação 5,Locação,LC C-25,Conectado,LC,False
+2N07T,7,Via 2,Norte,NCTP,Codificação,Armário TB,Armário TB,TB3-C40,Conectado,TB,False
+2N07T,7,Via 2,Norte,SCTP,Codificação,Armário TB,Armário TB,TB3-E23,Conectado,TB,False
+2N07T,7,Via 2,Norte,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2N07T,7,Via 2,Norte,TPR,Indicação,Armário TB,Armário TB,TB2-D40,Conectado,TB,False
+2N07T,7,Via 2,Norte,TPRN,Indicação,Armário TB,Armário TB,TB2-D41,Conectado,TB,False
+2N07T,7,Via 2,Norte,NCTP,Codificação,Interface 2,Interface 2,B07 21,Conectado,Interface (B),False
+2N07T,7,Via 2,Norte,SCTP,Codificação,Interface 2,Interface 2,B07 23,Conectado,Interface (B),False
+2N07T,7,Via 2,Norte,N12-CTP,Codificação,Interface 2,Interface 2,B07 26,Conectado,Interface (B),False
+2N07T,7,Via 2,Norte,TPR,Indicação,Interface 2,Interface 2,B07 30,Conectado,Interface (B),False
+2N07T,7,Via 2,Norte,TPRN,Indicação,Interface 2,Interface 2,B07 31,Conectado,Interface (B),False
+2N09T,9,Via 2,Norte,NCTP,Codificação,Locação 4,Locação,,Sem conexão,,False
+2N09T,9,Via 2,Norte,SCTP,Codificação,Locação 4,Locação,LB B-1,Conectado,LB,False
+2N09T,9,Via 2,Norte,N12-CTP,Codificação,Locação 4,Locação,LB A-19,Conectado,LB,False
+2N09T,9,Via 2,Norte,TPR,Indicação,Locação 4,Locação,LB B-3,Conectado,LB,False
+2N09T,9,Via 2,Norte,TPRN,Indicação,Locação 4,Locação,LB B-5,Conectado,LB,False
+2N09T,9,Via 2,Norte,NCTP,Codificação,Locação 5,Locação,LB B-9,Conectado,LB,False
+2N09T,9,Via 2,Norte,SCTP,Codificação,Locação 5,Locação,,Sem conexão,,False
+2N09T,9,Via 2,Norte,N12-CTP,Codificação,Locação 5,Locação,LB A-19,Conectado,LB,False
+2N09T,9,Via 2,Norte,TPR,Indicação,Locação 5,Locação,LC A-5,Conectado,LC,False
+2N09T,9,Via 2,Norte,TPRN,Indicação,Locação 5,Locação,LC A-7,Conectado,LC,False
+2N09T,9,Via 2,Norte,NCTP,Codificação,Armário TB,Armário TB,TB2-B42,Conectado,TB,False
+2N09T,9,Via 2,Norte,SCTP,Codificação,Armário TB,Armário TB,TB2-B44,Conectado,TB,False
+2N09T,9,Via 2,Norte,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2N09T,9,Via 2,Norte,TPR,Indicação,Armário TB,Armário TB,TB2-D36,Conectado,TB,False
+2N09T,9,Via 2,Norte,TPRN,Indicação,Armário TB,Armário TB,TB2-D37,Conectado,TB,False
+2N09T,9,Via 2,Norte,NCTP,Codificação,Interface 2,Interface 2,B09 21,Conectado,Interface (B),False
+2N09T,9,Via 2,Norte,SCTP,Codificação,Interface 2,Interface 2,B09 23,Conectado,Interface (B),False
+2N09T,9,Via 2,Norte,N12-CTP,Codificação,Interface 2,Interface 2,B09 26,Conectado,Interface (B),False
+2N09T,9,Via 2,Norte,TPR,Indicação,Interface 2,Interface 2,B09 30,Conectado,Interface (B),False
+2N09T,9,Via 2,Norte,TPRN,Indicação,Interface 2,Interface 2,B09 31,Conectado,Interface (B),False
+2N10T,10,Via 2,Norte,NCTP,Codificação,Locação 6,Locação,LB A-45,Conectado,LB,False
+2N10T,10,Via 2,Norte,SCTP,Codificação,Locação 6,Locação,LB A-47,Conectado,LB,False
+2N10T,10,Via 2,Norte,N12-CTP,Codificação,Locação 6,Locação,LB A-29,Conectado,LB,False
+2N10T,10,Via 2,Norte,TPR,Indicação,Locação 6,Locação,LB B-9,Conectado,LB,False
+2N10T,10,Via 2,Norte,TPRN,Indicação,Locação 6,Locação,LB B-11,Conectado,LB,False
+2N10T,10,Via 2,Norte,NCTP,Codificação,Armário TB,Armário TB,TB2-B41,Conectado,TB,False
+2N10T,10,Via 2,Norte,SCTP,Codificação,Armário TB,Armário TB,TB2-B43,Conectado,TB,False
+2N10T,10,Via 2,Norte,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2N10T,10,Via 2,Norte,TPR,Indicação,Armário TB,Armário TB,TB2-D34,Conectado,TB,False
+2N10T,10,Via 2,Norte,TPRN,Indicação,Armário TB,Armário TB,TB2-D35,Conectado,TB,False
+2N10T,10,Via 2,Norte,NCTP,Codificação,Interface 2,Interface 2,B10 21,Conectado,Interface (B),False
+2N10T,10,Via 2,Norte,SCTP,Codificação,Interface 2,Interface 2,B10 23,Conectado,Interface (B),False
+2N10T,10,Via 2,Norte,N12-CTP,Codificação,Interface 2,Interface 2,B10 26,Conectado,Interface (B),False
+2N10T,10,Via 2,Norte,TPR,Indicação,Interface 2,Interface 2,B10 30,Conectado,Interface (B),False
+2N10T,10,Via 2,Norte,TPRN,Indicação,Interface 2,Interface 2,B10 31,Conectado,Interface (B),False
+2S14T,14,Via 2,Sul,NCTP,Codificação,Locação 8,Locação,,Sem conexão,,False
+2S14T,14,Via 2,Sul,SCTP,Codificação,Locação 8,Locação,LB A-47,Conectado,LB,False
+2S14T,14,Via 2,Sul,N12-CTP,Codificação,Locação 8,Locação,LB A-25,Conectado,LB,False
+2S14T,14,Via 2,Sul,TPR,Indicação,Locação 8,Locação,LB A-40,Conectado,LB,False
+2S14T,14,Via 2,Sul,TPRN,Indicação,Locação 8,Locação,LB A-42,Conectado,LB,False
+2S14T,14,Via 2,Sul,NCTP,Codificação,Locação 10,Locação,LB A-29,Conectado,LB,False
+2S14T,14,Via 2,Sul,SCTP,Codificação,Locação 10,Locação,,Sem conexão,,False
+2S14T,14,Via 2,Sul,N12-CTP,Codificação,Locação 10,Locação,LB A-21,Conectado,LB,False
+2S14T,14,Via 2,Sul,TPR,Indicação,Locação 10,Locação,,Sem conexão,,False
+2S14T,14,Via 2,Sul,TPRN,Indicação,Locação 10,Locação,,Sem conexão,,False
+2S14T,14,Via 2,Sul,NCTP,Codificação,Armário TB,Armário TB,TB3-A48,Conectado,TB,False
+2S14T,14,Via 2,Sul,SCTP,Codificação,Armário TB,Armário TB,TB2-A18,Conectado,TB,False
+2S14T,14,Via 2,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2S14T,14,Via 2,Sul,TPR,Indicação,Armário TB,Armário TB,TB3-B51,Conectado,TB,False
+2S14T,14,Via 2,Sul,TPRN,Indicação,Armário TB,Armário TB,TB3-B52,Conectado,TB,False
+2S14T,14,Via 2,Sul,NCTP,Codificação,Interface 2,Interface 2,B37 21,Conectado,Interface (B),False
+2S14T,14,Via 2,Sul,SCTP,Codificação,Interface 2,Interface 2,B37 23,Conectado,Interface (B),False
+2S14T,14,Via 2,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B37 26,Conectado,Interface (B),False
+2S14T,14,Via 2,Sul,TPR,Indicação,Interface 2,Interface 2,B37 30,Conectado,Interface (B),False
+2S14T,14,Via 2,Sul,TPRN,Indicação,Interface 2,Interface 2,B37 31,Conectado,Interface (B),False
+1S11T,11,Via 1,Sul,NCTP,Codificação,Locação 14,Locação,,Sem conexão,,False
+1S11T,11,Via 1,Sul,SCTP,Codificação,Locação 14,Locação,LB A-35,Conectado,LB,False
+1S11T,11,Via 1,Sul,N12-CTP,Codificação,Locação 14,Locação,LB A-21,Conectado,LB,False
+1S11T,11,Via 1,Sul,TPR,Indicação,Locação 14,Locação,LB A-32,Conectado,LB,False
+1S11T,11,Via 1,Sul,TPRN,Indicação,Locação 14,Locação,LB A-34,Conectado,LB,False
+1S11T,11,Via 1,Sul,NCTP,Codificação,Locação 17,Locação,LB B-15,Conectado,LB,False
+1S11T,11,Via 1,Sul,SCTP,Codificação,Locação 17,Locação,,Sem conexão,,False
+1S11T,11,Via 1,Sul,N12-CTP,Codificação,Locação 17,Locação,LB A-23,Conectado,LB,False
+1S11T,11,Via 1,Sul,TPR,Indicação,Locação 17,Locação,,Sem conexão,,False
+1S11T,11,Via 1,Sul,TPRN,Indicação,Locação 17,Locação,,Sem conexão,,False
+1S11T,11,Via 1,Sul,NCTP,Codificação,Armário TB,Armário TB,TB4-E15,Conectado,TB,False
+1S11T,11,Via 1,Sul,SCTP,Codificação,Armário TB,Armário TB,TB3-C31,Conectado,TB,False
+1S11T,11,Via 1,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1S11T,11,Via 1,Sul,TPR,Indicação,Armário TB,Armário TB,TB3-B54,Conectado,TB,False
+1S11T,11,Via 1,Sul,TPRN,Indicação,Armário TB,Armário TB,TB3-B53,Conectado,TB,False
+1S11T,11,Via 1,Sul,NCTP,Codificação,Interface 2,Interface 2,B29 21,Conectado,Interface (B),False
+1S11T,11,Via 1,Sul,SCTP,Codificação,Interface 2,Interface 2,B29 23,Conectado,Interface (B),False
+1S11T,11,Via 1,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B29 26,Conectado,Interface (B),False
+1S11T,11,Via 1,Sul,TPR,Indicação,Interface 2,Interface 2,B29 30,Conectado,Interface (B),False
+1S11T,11,Via 1,Sul,TPRN,Indicação,Interface 2,Interface 2,B29 31,Conectado,Interface (B),False
+1S07T,7,Via 1,Sul,NCTP,Codificação,Locação 17,Locação,LC D-5,Conectado,LC,False
+1S07T,7,Via 1,Sul,SCTP,Codificação,Locação 17,Locação,LC F-8,Conectado,LC,False
+1S07T,7,Via 1,Sul,N12-CTP,Codificação,Locação 17,Locação,LB C-15,Conectado,LB,False
+1S07T,7,Via 1,Sul,TPR,Indicação,Locação 17,Locação,LC F-22,Conectado,LC,False
+1S07T,7,Via 1,Sul,TPRN,Indicação,Locação 17,Locação,LC F-24,Conectado,LC,False
+1S07T,7,Via 1,Sul,NCTP,Codificação,Locação 18,Locação,LC C-5,Conectado,LC,False
+1S07T,7,Via 1,Sul,SCTP,Codificação,Locação 18,Locação,LC F-8,Conectado,LC,False
+1S07T,7,Via 1,Sul,N12-CTP,Codificação,Locação 18,Locação,LB A-21,Conectado,LB,False
+1S07T,7,Via 1,Sul,TPR,Indicação,Locação 18,Locação,LC F-22,Conectado,LC,False
+1S07T,7,Via 1,Sul,TPRN,Indicação,Locação 18,Locação,LC F-24,Conectado,LC,False
+1S07T,7,Via 1,Sul,NCTP,Codificação,Locação 20,Locação,,Sem conexão,,False
+1S07T,7,Via 1,Sul,SCTP,Codificação,Locação 20,Locação,LB B-27,Conectado,LB,False
+1S07T,7,Via 1,Sul,N12-CTP,Codificação,Locação 20,Locação,LB A-27,Conectado,LB,False
+1S07T,7,Via 1,Sul,TPR,Indicação,Locação 20,Locação,LB B-31,Conectado,LB,False
+1S07T,7,Via 1,Sul,TPRN,Indicação,Locação 20,Locação,LB B-31,Conectado,LB,False
+1S07T,7,Via 1,Sul,NCTP,Codificação,Locação 21,Locação,LB B-17,Conectado,LB,False
+1S07T,7,Via 1,Sul,SCTP,Codificação,Locação 21,Locação,,Sem conexão,,False
+1S07T,7,Via 1,Sul,N12-CTP,Codificação,Locação 21,Locação,LB A-31,Conectado,LB,False
+1S07T,7,Via 1,Sul,TPR,Indicação,Locação 21,Locação,,Sem conexão,,False
+1S07T,7,Via 1,Sul,TPRN,Indicação,Locação 21,Locação,,Sem conexão,,False
+1S07T,7,Via 1,Sul,NCTP,Codificação,Armário TB,Armário TB,TB4-A4,Conectado,TB,False
+1S07T,7,Via 1,Sul,SCTP,Codificação,Armário TB,Armário TB,TB4-A5,Conectado,TB,False
+1S07T,7,Via 1,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1S07T,7,Via 1,Sul,TPR,Indicação,Armário TB,Armário TB,TB4-E49,Conectado,TB,False
+1S07T,7,Via 1,Sul,TPRN,Indicação,Armário TB,Armário TB,TB4-E50,Conectado,TB,False
+1S07T,7,Via 1,Sul,NCTP,Codificação,Interface 2,Interface 2,B32 21,Conectado,Interface (B),False
+1S07T,7,Via 1,Sul,SCTP,Codificação,Interface 2,Interface 2,B32 23,Conectado,Interface (B),False
+1S07T,7,Via 1,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B32 26,Conectado,Interface (B),False
+1S07T,7,Via 1,Sul,TPR,Indicação,Interface 2,Interface 2,B32 30,Conectado,Interface (B),False
+1S07T,7,Via 1,Sul,TPRN,Indicação,Interface 2,Interface 2,B32 31,Conectado,Interface (B),False
+1S06T (A),6,Via 1,Sul,NCTP,Codificação,Locação 14,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,SCTP,Codificação,Locação 14,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,N12-CTP,Codificação,Locação 14,Locação,LB A-21,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPR,Indicação,Locação 14,Locação,LB AA-1,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPRN,Indicação,Locação 14,Locação,LB AA-2,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,NCTP,Codificação,Locação 14,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,SCTP,Codificação,Locação 14,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,N12-CTP,Codificação,Locação 14,Locação,LB A-21,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPR,Indicação,Locação 14,Locação,LB AA-1,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPRN,Indicação,Locação 14,Locação,LB AA-2,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,NCTP,Codificação,Locação 15,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,SCTP,Codificação,Locação 15,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,N12-CTP,Codificação,Locação 15,Locação,LB A-23,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPR,Indicação,Locação 15,Locação,LB AA-1,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPRN,Indicação,Locação 15,Locação,LB AA-2,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,NCTP,Codificação,Locação 16,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,SCTP,Codificação,Locação 16,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,N12-CTP,Codificação,Locação 16,Locação,LB A-27,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPR,Indicação,Locação 16,Locação,LB AA-1,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPRN,Indicação,Locação 16,Locação,LB AA-2,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,NCTP,Codificação,Locação 17,Locação,LC E-24,Conectado,LC,False
+1S06T (A),6,Via 1,Sul,SCTP,Codificação,Locação 17,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,N12-CTP,Codificação,Locação 17,Locação,LB C-15,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPR,Indicação,Locação 17,Locação,LB AA-1,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPRN,Indicação,Locação 17,Locação,LB AA-2,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,NCTP,Codificação,Locação 18,Locação,LC E-24,Conectado,LC,False
+1S06T (A),6,Via 1,Sul,SCTP,Codificação,Locação 18,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,N12-CTP,Codificação,Locação 18,Locação,LB A-21,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPR,Indicação,Locação 18,Locação,LB AA-1,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPRN,Indicação,Locação 18,Locação,LB AA-2,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,NCTP,Codificação,Locação 20,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,SCTP,Codificação,Locação 20,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,N12-CTP,Codificação,Locação 20,Locação,LB A-27,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPR,Indicação,Locação 20,Locação,LB AA-1,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPRN,Indicação,Locação 20,Locação,LB AA-2,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,NCTP,Codificação,Locação 21,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,SCTP,Codificação,Locação 21,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,N12-CTP,Codificação,Locação 21,Locação,LB A-31,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPR,Indicação,Locação 21,Locação,LB AA-1,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPRN,Indicação,Locação 21,Locação,LB AA-2,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,NCTP,Codificação,Locação 22,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,SCTP,Codificação,Locação 22,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,N12-CTP,Codificação,Locação 22,Locação,LB A-25,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPR,Indicação,Locação 22,Locação,LB AA-1,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPRN,Indicação,Locação 22,Locação,LB AA-2,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,NCTP,Codificação,Locação 23,Locação,LB B-3,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,SCTP,Codificação,Locação 23,Locação,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,N12-CTP,Codificação,Locação 23,Locação,LB A-23,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPR,Indicação,Locação 23,Locação,LB B-44,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,TPRN,Indicação,Locação 23,Locação,LB B-45,Conectado,LB,False
+1S06T (A),6,Via 1,Sul,NCTP,Codificação,Armário TB,Armário TB,TB4-B32,Conectado,TB,False
+1S06T (A),6,Via 1,Sul,SCTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,TPR,Indicação,Armário TB,Armário TB,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,TPRN,Indicação,Armário TB,Armário TB,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,NCTP,Codificação,Interface 2,Interface 2,B45 21,Conectado,Interface (B),False
+1S06T (A),6,Via 1,Sul,SCTP,Codificação,Interface 2,Interface 2,,Sem conexão,,False
+1S06T (A),6,Via 1,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B45 26,Conectado,Interface (B),False
+1S06T (A),6,Via 1,Sul,TPR,Indicação,Interface 2,Interface 2,B45 30,Conectado,Interface (B),False
+1S06T (A),6,Via 1,Sul,TPRN,Indicação,Interface 2,Interface 2,B45 31,Conectado,Interface (B),False
+2S11T (A),11,Via 2,Sul,NCTP,Codificação,Locação 16,Locação,,Sem conexão,,False
+2S11T (A),11,Via 2,Sul,SCTP,Codificação,Locação 16,Locação,LB B-5,Conectado,LB,False
+2S11T (A),11,Via 2,Sul,N12-CTP,Codificação,Locação 16,Locação,LB A-27,Conectado,LB,False
+2S11T (A),11,Via 2,Sul,TPR,Indicação,Locação 16,Locação,LB B-7,Conectado,LB,False
+2S11T (A),11,Via 2,Sul,TPRN,Indicação,Locação 16,Locação,LB B-9,Conectado,LB,False
+2S11T (A),11,Via 2,Sul,NCTP,Codificação,Locação 17,Locação,LC F-20,Conectado,LC,False
+2S11T (A),11,Via 2,Sul,SCTP,Codificação,Locação 17,Locação,,Sem conexão,,False
+2S11T (A),11,Via 2,Sul,N12-CTP,Codificação,Locação 17,Locação,LB C-15,Conectado,LB,False
+2S11T (A),11,Via 2,Sul,TPR,Indicação,Locação 17,Locação,,Sem conexão,,False
+2S11T (A),11,Via 2,Sul,TPRN,Indicação,Locação 17,Locação,,Sem conexão,,False
+2S11T (A),11,Via 2,Sul,NCTP,Codificação,Locação 18,Locação,LC F-20,Conectado,LC,False
+2S11T (A),11,Via 2,Sul,SCTP,Codificação,Locação 18,Locação,,Sem conexão,,False
+2S11T (A),11,Via 2,Sul,N12-CTP,Codificação,Locação 18,Locação,LB A-21,Conectado,LB,False
+2S11T (A),11,Via 2,Sul,TPR,Indicação,Locação 18,Locação,,Sem conexão,,False
+2S11T (A),11,Via 2,Sul,TPRN,Indicação,Locação 18,Locação,,Sem conexão,,False
+2S11T (A),11,Via 2,Sul,NCTP,Codificação,Locação 20,Locação,LB B-25,Conectado,LB,False
+2S11T (A),11,Via 2,Sul,SCTP,Codificação,Locação 20,Locação,,Sem conexão,,False
+2S11T (A),11,Via 2,Sul,N12-CTP,Codificação,Locação 20,Locação,LB A-27,Conectado,LB,False
+2S11T (A),11,Via 2,Sul,TPR,Indicação,Locação 20,Locação,,Sem conexão,,False
+2S11T (A),11,Via 2,Sul,TPRN,Indicação,Locação 20,Locação,,Sem conexão,,False
+2S11T (A),11,Via 2,Sul,NCTP,Codificação,Armário TB,Armário TB,TB4-E46,Conectado,TB,False
+2S11T (A),11,Via 2,Sul,SCTP,Codificação,Armário TB,Armário TB,TB4-E56,Conectado,TB,False
+2S11T (A),11,Via 2,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2S11T (A),11,Via 2,Sul,TPR,Indicação,Armário TB,Armário TB,TB4-E57,Conectado,TB,False
+2S11T (A),11,Via 2,Sul,TPRN,Indicação,Armário TB,Armário TB,TB4-E58,Conectado,TB,False
+2S11T (A),11,Via 2,Sul,NCTP,Codificação,Interface 2,Interface 2,B41 21,Conectado,Interface (B),False
+2S11T (A),11,Via 2,Sul,SCTP,Codificação,Interface 2,Interface 2,B41 23,Conectado,Interface (B),False
+2S11T (A),11,Via 2,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B41 26,Conectado,Interface (B),False
+2S11T (A),11,Via 2,Sul,TPR,Indicação,Interface 2,Interface 2,B41 30,Conectado,Interface (B),False
+2S11T (A),11,Via 2,Sul,TPRN,Indicação,Interface 2,Interface 2,B41 31,Conectado,Interface (B),False
+2S11T (B),11,Via 2,Sul,NCTP,Codificação,Locação 17,Locação,LC E-30,Conectado,LC,False
+2S11T (B),11,Via 2,Sul,SCTP,Codificação,Locação 17,Locação,,Sem conexão,,False
+2S11T (B),11,Via 2,Sul,N12-CTP,Codificação,Locação 17,Locação,LB C-15,Conectado,LB,False
+2S11T (B),11,Via 2,Sul,TPR,Indicação,Locação 17,Locação,LC B-4,Conectado,LC,False
+2S11T (B),11,Via 2,Sul,TPRN,Indicação,Locação 17,Locação,LC B-6,Conectado,LC,False
+2S11T (B),11,Via 2,Sul,NCTP,Codificação,Locação 18,Locação,LC E-30,Conectado,LC,False
+2S11T (B),11,Via 2,Sul,SCTP,Codificação,Locação 18,Locação,,Sem conexão,,False
+2S11T (B),11,Via 2,Sul,N12-CTP,Codificação,Locação 18,Locação,LB A-21,Conectado,LB,False
+2S11T (B),11,Via 2,Sul,TPR,Indicação,Locação 18,Locação,LC B-4,Conectado,LC,False
+2S11T (B),11,Via 2,Sul,TPRN,Indicação,Locação 18,Locação,LC B-6,Conectado,LC,False
+2S11T (B),11,Via 2,Sul,NCTP,Codificação,Locação 20,Locação,,Sem conexão,,False
+2S11T (B),11,Via 2,Sul,SCTP,Codificação,Locação 20,Locação,,Sem conexão,,False
+2S11T (B),11,Via 2,Sul,N12-CTP,Codificação,Locação 20,Locação,LB A-27,Conectado,LB,False
+2S11T (B),11,Via 2,Sul,TPR,Indicação,Locação 20,Locação,,Sem conexão,,False
+2S11T (B),11,Via 2,Sul,TPRN,Indicação,Locação 20,Locação,,Sem conexão,,False
+2S11T (B),11,Via 2,Sul,NCTP,Codificação,Locação 22,Locação,,Sem conexão,,False
+2S11T (B),11,Via 2,Sul,SCTP,Codificação,Locação 22,Locação,LB A-47,Conectado,LB,False
+2S11T (B),11,Via 2,Sul,N12-CTP,Codificação,Locação 22,Locação,LB A-25,Conectado,LB,False
+2S11T (B),11,Via 2,Sul,TPR,Indicação,Locação 22,Locação,LB A-49,Conectado,LB,False
+2S11T (B),11,Via 2,Sul,TPRN,Indicação,Locação 22,Locação,LB A-51,Conectado,LB,False
+2S11T (B),11,Via 2,Sul,NCTP,Codificação,Locação 23,Locação,LB B-17,Conectado,LB,False
+2S11T (B),11,Via 2,Sul,SCTP,Codificação,Locação 23,Locação,,Sem conexão,,False
+2S11T (B),11,Via 2,Sul,N12-CTP,Codificação,Locação 23,Locação,LB A-23,Conectado,LB,False
+2S11T (B),11,Via 2,Sul,TPR,Indicação,Locação 23,Locação,,Sem conexão,,False
+2S11T (B),11,Via 2,Sul,TPRN,Indicação,Locação 23,Locação,,Sem conexão,,False
+2S11T (B),11,Via 2,Sul,NCTP,Codificação,Armário TB,Armário TB,TB4-C10,Conectado,TB,False
+2S11T (B),11,Via 2,Sul,SCTP,Codificação,Armário TB,Armário TB,TB4-A2,Conectado,TB,False
+2S11T (B),11,Via 2,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2S11T (B),11,Via 2,Sul,TPR,Indicação,Armário TB,Armário TB,TB4-E42,Conectado,TB,False
+2S11T (B),11,Via 2,Sul,TPRN,Indicação,Armário TB,Armário TB,TB4-E43,Conectado,TB,False
+2S11T (B),11,Via 2,Sul,NCTP,Codificação,Interface 2,Interface 2,B44 21,Conectado,Interface (B),False
+2S11T (B),11,Via 2,Sul,SCTP,Codificação,Interface 2,Interface 2,B44 23,Conectado,Interface (B),False
+2S11T (B),11,Via 2,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B44 26,Conectado,Interface (B),False
+2S11T (B),11,Via 2,Sul,TPR,Indicação,Interface 2,Interface 2,B44 30,Conectado,Interface (B),False
+2S11T (B),11,Via 2,Sul,TPRN,Indicação,Interface 2,Interface 2,B44 31,Conectado,Interface (B),False
+1N09T,9,Via 1,Norte,NCTP,Codificação,Locação 1,Locação,,Sem conexão,,False
+1N09T,9,Via 1,Norte,SCTP,Codificação,Locação 1,Locação,LB B-3,Conectado,LB,False
+1N09T,9,Via 1,Norte,N12-CTP,Codificação,Locação 1,Locação,LB A-17,Conectado,LB,False
+1N09T,9,Via 1,Norte,TPR,Indicação,Locação 1,Locação,LB B-5,Conectado,LB,False
+1N09T,9,Via 1,Norte,TPRN,Indicação,Locação 1,Locação,LB B-7,Conectado,LB,False
+1N09T,9,Via 1,Norte,NCTP,Codificação,Locação 3,Locação,LB B-28,Conectado,LB,False
+1N09T,9,Via 1,Norte,SCTP,Codificação,Locação 3,Locação,,Sem conexão,,False
+1N09T,9,Via 1,Norte,N12-CTP,Codificação,Locação 3,Locação,LB A-21,Conectado,LB,False
+1N09T,9,Via 1,Norte,TPR,Indicação,Locação 3,Locação,,Sem conexão,,False
+1N09T,9,Via 1,Norte,TPRN,Indicação,Locação 3,Locação,,Sem conexão,,False
+1N09T,9,Via 1,Norte,NCTP,Codificação,Locação 5,Locação,LC B-39,Conectado,LC,False
+1N09T,9,Via 1,Norte,SCTP,Codificação,Locação 5,Locação,LC D-5,Conectado,LC,False
+1N09T,9,Via 1,Norte,N12-CTP,Codificação,Locação 5,Locação,LB A-19,Conectado,LB,False
+1N09T,9,Via 1,Norte,TPR,Indicação,Locação 5,Locação,LC D-7,Conectado,LC,False
+1N09T,9,Via 1,Norte,TPRN,Indicação,Locação 5,Locação,LC D-9,Conectado,LC,False
+1N09T,9,Via 1,Norte,NCTP,Codificação,Armário TB,Armário TB,TB2-B7,Conectado,TB,False
+1N09T,9,Via 1,Norte,SCTP,Codificação,Armário TB,Armário TB,TB2-E25,Conectado,TB,False
+1N09T,9,Via 1,Norte,N12-CTP,Codificação,Armário TB,Armário TB,TB3-C37,Conectado,TB,False
+1N09T,9,Via 1,Norte,TPR,Indicação,Armário TB,Armário TB,TB3-C35,Conectado,TB,False
+1N09T,9,Via 1,Norte,TPRN,Indicação,Armário TB,Armário TB,TB3-C36,Conectado,TB,False
+1N09T,9,Via 1,Norte,NCTP,Codificação,Interface 2,Interface 2,B03 21,Conectado,Interface (B),False
+1N09T,9,Via 1,Norte,SCTP,Codificação,Interface 2,Interface 2,B03 23,Conectado,Interface (B),False
+1N09T,9,Via 1,Norte,N12-CTP,Codificação,Interface 2,Interface 2,B03 26,Conectado,Interface (B),False
+1N09T,9,Via 1,Norte,TPR,Indicação,Interface 2,Interface 2,B03 30,Conectado,Interface (B),False
+1N09T,9,Via 1,Norte,TPRN,Indicação,Interface 2,Interface 2,B03 31,Conectado,Interface (B),False
+1N11T,11,Via 1,Norte,NCTP,Codificação,Locação 6,Locação,LB A-51,Conectado,LB,False
+1N11T,11,Via 1,Norte,SCTP,Codificação,Locação 6,Locação,LB A-52,Conectado,LB,False
+1N11T,11,Via 1,Norte,N12-CTP,Codificação,Locação 6,Locação,LB A-29,Conectado,LB,False
+1N11T,11,Via 1,Norte,TPR,Indicação,Locação 6,Locação,LB A-37,Conectado,LB,False
+1N11T,11,Via 1,Norte,TPRN,Indicação,Locação 6,Locação,LB A-38,Conectado,LB,False
+1N11T,11,Via 1,Norte,NCTP,Codificação,Armário TB,Armário TB,TB3-B27,Conectado,TB,False
+1N11T,11,Via 1,Norte,SCTP,Codificação,Armário TB,Armário TB,TB3-B29,Conectado,TB,False
+1N11T,11,Via 1,Norte,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1N11T,11,Via 1,Norte,TPR,Indicação,Armário TB,Armário TB,TB2-D32,Conectado,TB,False
+1N11T,11,Via 1,Norte,TPRN,Indicação,Armário TB,Armário TB,TB2-E33,Conectado,TB,False
+1N11T,11,Via 1,Norte,NCTP,Codificação,Interface 2,Interface 2,B05 21,Conectado,Interface (B),False
+1N11T,11,Via 1,Norte,SCTP,Codificação,Interface 2,Interface 2,B05 23,Conectado,Interface (B),False
+1N11T,11,Via 1,Norte,N12-CTP,Codificação,Interface 2,Interface 2,B05 26,Conectado,Interface (B),False
+1N11T,11,Via 1,Norte,TPR,Indicação,Interface 2,Interface 2,B05 30,Conectado,Interface (B),False
+1N11T,11,Via 1,Norte,TPRN,Indicação,Interface 2,Interface 2,B05 31,Conectado,Interface (B),False
+1S14T,14,Via 1,Sul,NCTP,Codificação,Locação 6,Locação,,Sem conexão,,False
+1S14T,14,Via 1,Sul,SCTP,Codificação,Locação 6,Locação,LB A-50,Conectado,LB,False
+1S14T,14,Via 1,Sul,N12-CTP,Codificação,Locação 6,Locação,LB A-29,Conectado,LB,False
+1S14T,14,Via 1,Sul,TPR,Indicação,Locação 6,Locação,LB A-46,Conectado,LB,False
+1S14T,14,Via 1,Sul,TPRN,Indicação,Locação 6,Locação,LB A-48,Conectado,LB,False
+1S14T,14,Via 1,Sul,NCTP,Codificação,Locação 8,Locação,LB A-48,Conectado,LB,False
+1S14T,14,Via 1,Sul,SCTP,Codificação,Locação 8,Locação,,Sem conexão,,False
+1S14T,14,Via 1,Sul,N12-CTP,Codificação,Locação 8,Locação,LB A-25,Conectado,LB,False
+1S14T,14,Via 1,Sul,TPR,Indicação,Locação 8,Locação,,Sem conexão,,False
+1S14T,14,Via 1,Sul,TPRN,Indicação,Locação 8,Locação,,Sem conexão,,False
+1S14T,14,Via 1,Sul,NCTP,Codificação,Armário TB,Armário TB,TB3-B23,Conectado,TB,False
+1S14T,14,Via 1,Sul,SCTP,Codificação,Armário TB,Armário TB,TB3-B30,Conectado,TB,False
+1S14T,14,Via 1,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1S14T,14,Via 1,Sul,TPR,Indicação,Armário TB,Armário TB,TB2-D20,Conectado,TB,False
+1S14T,14,Via 1,Sul,TPRN,Indicação,Armário TB,Armário TB,TB2-D21,Conectado,TB,False
+1S14T,14,Via 1,Sul,NCTP,Codificação,Interface 2,Interface 2,B26 21,Conectado,Interface (B),False
+1S14T,14,Via 1,Sul,SCTP,Codificação,Interface 2,Interface 2,B26 23,Conectado,Interface (B),False
+1S14T,14,Via 1,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B26 26,Conectado,Interface (B),False
+1S14T,14,Via 1,Sul,TPR,Indicação,Interface 2,Interface 2,B26 30,Conectado,Interface (B),False
+1S14T,14,Via 1,Sul,TPRN,Indicação,Interface 2,Interface 2,B26 31,Conectado,Interface (B),False
+2N06T,6,Via 2,Norte,NCTP,Codificação,Locação 1,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,SCTP,Codificação,Locação 1,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,N12-CTP,Codificação,Locação 1,Locação,LB A-17,Conectado,LB,False
+2N06T,6,Via 2,Norte,TPR,Indicação,Locação 1,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,TPRN,Indicação,Locação 1,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,NCTP,Codificação,Locação 2,Locação,LB TB-AA22,Conectado,LB,False
+2N06T,6,Via 2,Norte,SCTP,Codificação,Locação 2,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,N12-CTP,Codificação,Locação 2,Locação,LB A-35,Conectado,LB,False
+2N06T,6,Via 2,Norte,TPR,Indicação,Locação 2,Locação,LB B-25,Conectado,LB,False
+2N06T,6,Via 2,Norte,TPRN,Indicação,Locação 2,Locação,LB B-27,Conectado,LB,False
+2N06T,6,Via 2,Norte,NCTP,Codificação,Locação 3,Locação,LB TB-BB13,Conectado,LB,False
+2N06T,6,Via 2,Norte,SCTP,Codificação,Locação 3,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,N12-CTP,Codificação,Locação 3,Locação,LB A-21,Conectado,LB,False
+2N06T,6,Via 2,Norte,TPR,Indicação,Locação 3,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,TPRN,Indicação,Locação 3,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,NCTP,Codificação,Locação 4,Locação,LB TB-AA16,Conectado,LB,False
+2N06T,6,Via 2,Norte,SCTP,Codificação,Locação 4,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,N12-CTP,Codificação,Locação 4,Locação,LB A-19,Conectado,LB,False
+2N06T,6,Via 2,Norte,TPR,Indicação,Locação 4,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,TPRN,Indicação,Locação 4,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,NCTP,Codificação,Locação 5,Locação,LB TBB-BB11,Conectado,LB,False
+2N06T,6,Via 2,Norte,SCTP,Codificação,Locação 5,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,N12-CTP,Codificação,Locação 5,Locação,LB A-19,Conectado,LB,False
+2N06T,6,Via 2,Norte,TPR,Indicação,Locação 5,Locação,LC C-2,Conectado,LC,False
+2N06T,6,Via 2,Norte,TPRN,Indicação,Locação 5,Locação,LC C-29,Conectado,LC,False
+2N06T,6,Via 2,Norte,NCTP,Codificação,Locação 6,Locação,LB TBB-BB13,Conectado,LB,False
+2N06T,6,Via 2,Norte,SCTP,Codificação,Locação 6,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,N12-CTP,Codificação,Locação 6,Locação,LB A-25,Conectado,LB,False
+2N06T,6,Via 2,Norte,TPR,Indicação,Locação 6,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,TPRN,Indicação,Locação 6,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,NCTP,Codificação,Locação 7,Locação,LB TBB-BB13,Conectado,LB,False
+2N06T,6,Via 2,Norte,SCTP,Codificação,Locação 7,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,N12-CTP,Codificação,Locação 7,Locação,LB A-29,Conectado,LB,False
+2N06T,6,Via 2,Norte,TPR,Indicação,Locação 7,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,TPRN,Indicação,Locação 7,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,NCTP,Codificação,Locação 10,Locação,LC TB-AA7,Conectado,LC,False
+2N06T,6,Via 2,Norte,SCTP,Codificação,Locação 10,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,N12-CTP,Codificação,Locação 10,Locação,LB A-21,Conectado,LB,False
+2N06T,6,Via 2,Norte,TPR,Indicação,Locação 10,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,TPRN,Indicação,Locação 10,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,NCTP,Codificação,Locação 13,Locação,LB TB-AA13,Conectado,LB,False
+2N06T,6,Via 2,Norte,SCTP,Codificação,Locação 13,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,N12-CTP,Codificação,Locação 13,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,TPR,Indicação,Locação 13,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,TPRN,Indicação,Locação 13,Locação,,Sem conexão,,False
+2N06T,6,Via 2,Norte,NCTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2N06T,6,Via 2,Norte,SCTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2N06T,6,Via 2,Norte,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2N06T,6,Via 2,Norte,TPR,Indicação,Armário TB,Armário TB,TB2-D42,Conectado,TB,False
+2N06T,6,Via 2,Norte,TPRN,Indicação,Armário TB,Armário TB,TB2-D43,Conectado,TB,False
+2N06T,6,Via 2,Norte,NCTP,Codificação,Interface 2,Interface 2,B06 21,Conectado,Interface (B),False
+2N06T,6,Via 2,Norte,SCTP,Codificação,Interface 2,Interface 2,,Sem conexão,,False
+2N06T,6,Via 2,Norte,N12-CTP,Codificação,Interface 2,Interface 2,,Sem conexão,,False
+2N06T,6,Via 2,Norte,TPR,Indicação,Interface 2,Interface 2,B06 30,Conectado,Interface (B),False
+2N06T,6,Via 2,Norte,TPRN,Indicação,Interface 2,Interface 2,B06 31,Conectado,Interface (B),False
+2N08T,8,Via 2,Norte,NCTP,Codificação,Locação 3,Locação,,Sem conexão,,False
+2N08T,8,Via 2,Norte,SCTP,Codificação,Locação 3,Locação,LB A-35,Conectado,LB,False
+2N08T,8,Via 2,Norte,N12-CTP,Codificação,Locação 3,Locação,LB A-21,Conectado,LB,False
+2N08T,8,Via 2,Norte,TPR,Indicação,Locação 3,Locação,LB A-34,Conectado,LB,False
+2N08T,8,Via 2,Norte,TPRN,Indicação,Locação 3,Locação,LB A-36,Conectado,LB,False
+2N08T,8,Via 2,Norte,NCTP,Codificação,Locação 4,Locação,LB B-7,Conectado,LB,False
+2N08T,8,Via 2,Norte,SCTP,Codificação,Locação 4,Locação,,Sem conexão,,False
+2N08T,8,Via 2,Norte,N12-CTP,Codificação,Locação 4,Locação,LB A-19,Conectado,LB,False
+2N08T,8,Via 2,Norte,TPR,Indicação,Locação 4,Locação,,Não preenchido,,False
+2N08T,8,Via 2,Norte,TPRN,Indicação,Locação 4,Locação,,Não preenchido,,False
+2N08T,8,Via 2,Norte,NCTP,Codificação,Locação 5,Locação,LC B-39,Conectado,LC,False
+2N08T,8,Via 2,Norte,SCTP,Codificação,Locação 5,Locação,LC B-5,Conectado,LC,False
+2N08T,8,Via 2,Norte,N12-CTP,Codificação,Locação 5,Locação,LB A-19,Conectado,LB,False
+2N08T,8,Via 2,Norte,TPR,Indicação,Locação 5,Locação,LC B-4,Conectado,LC,False
+2N08T,8,Via 2,Norte,TPRN,Indicação,Locação 5,Locação,LC B-6,Conectado,LC,False
+2N08T,8,Via 2,Norte,NCTP,Codificação,Armário TB,Armário TB,TB2-B45,Conectado,TB,False
+2N08T,8,Via 2,Norte,SCTP,Codificação,Armário TB,Armário TB,TB2-D4,Conectado,TB,False
+2N08T,8,Via 2,Norte,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2N08T,8,Via 2,Norte,TPR,Indicação,Armário TB,Armário TB,TB2-D38,Conectado,TB,False
+2N08T,8,Via 2,Norte,TPRN,Indicação,Armário TB,Armário TB,TB2-D39,Conectado,TB,False
+2N08T,8,Via 2,Norte,NCTP,Codificação,Interface 2,Interface 2,B08 21,Conectado,Interface (B),False
+2N08T,8,Via 2,Norte,SCTP,Codificação,Interface 2,Interface 2,B08 23,Conectado,Interface (B),False
+2N08T,8,Via 2,Norte,N12-CTP,Codificação,Interface 2,Interface 2,B08 26,Conectado,Interface (B),False
+2N08T,8,Via 2,Norte,TPR,Indicação,Interface 2,Interface 2,B08 30,Conectado,Interface (B),False
+2N08T,8,Via 2,Norte,TPRN,Indicação,Interface 2,Interface 2,B08 31,Conectado,Interface (B),False
+2S15T,15,Via 2,Sul,NCTP,Codificação,Locação 6,Locação,,Sem conexão,,False
+2S15T,15,Via 2,Sul,SCTP,Codificação,Locação 6,Locação,LB A-41,Conectado,LB,False
+2S15T,15,Via 2,Sul,N12-CTP,Codificação,Locação 6,Locação,LB A-29,Conectado,LB,False
+2S15T,15,Via 2,Sul,TPR,Indicação,Locação 6,Locação,LB A-42,Conectado,LB,False
+2S15T,15,Via 2,Sul,TPRN,Indicação,Locação 6,Locação,LB A-44,Conectado,LB,False
+2S15T,15,Via 2,Sul,NCTP,Codificação,Locação 8,Locação,LB A-44,Conectado,LB,False
+2S15T,15,Via 2,Sul,SCTP,Codificação,Locação 8,Locação,,Sem conexão,,False
+2S15T,15,Via 2,Sul,N12-CTP,Codificação,Locação 8,Locação,LB A-25,Conectado,LB,False
+2S15T,15,Via 2,Sul,TPR,Indicação,Locação 8,Locação,,Sem conexão,,False
+2S15T,15,Via 2,Sul,TPRN,Indicação,Locação 8,Locação,,Sem conexão,,False
+2S15T,15,Via 2,Sul,NCTP,Codificação,Armário TB,Armário TB,TB3-A48,Conectado,TB,False
+2S15T,15,Via 2,Sul,SCTP,Codificação,Armário TB,Armário TB,TB2-B40,Conectado,TB,False
+2S15T,15,Via 2,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2S15T,15,Via 2,Sul,TPR,Indicação,Armário TB,Armário TB,TB2-D14,Conectado,TB,False
+2S15T,15,Via 2,Sul,TPRN,Indicação,Armário TB,Armário TB,TB2-D15,Conectado,TB,False
+2S15T,15,Via 2,Sul,NCTP,Codificação,Interface 2,Interface 2,B36 30,Conectado,Interface (B),False
+2S15T,15,Via 2,Sul,SCTP,Codificação,Interface 2,Interface 2,B36 31,Conectado,Interface (B),False
+2S15T,15,Via 2,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B36 26,Conectado,Interface (B),False
+2S15T,15,Via 2,Sul,TPR,Indicação,Interface 2,Interface 2,B36 30,Conectado,Interface (B),False
+2S15T,15,Via 2,Sul,TPRN,Indicação,Interface 2,Interface 2,B36 31,Conectado,Interface (B),False
+1S12T,12,Via 1,Sul,NCTP,Codificação,Locação 10,Locação,,Sem conexão,,False
+1S12T,12,Via 1,Sul,SCTP,Codificação,Locação 10,Locação,LB A-32,Conectado,LB,False
+1S12T,12,Via 1,Sul,N12-CTP,Codificação,Locação 10,Locação,LB A-21,Conectado,LB,False
+1S12T,12,Via 1,Sul,TPR,Indicação,Locação 10,Locação,LB A-34,Conectado,LB,False
+1S12T,12,Via 1,Sul,TPRN,Indicação,Locação 10,Locação,LB A-36,Conectado,LB,False
+1S12T,12,Via 1,Sul,NCTP,Codificação,Locação 15,Locação,LB A-23,Conectado,LB,False
+1S12T,12,Via 1,Sul,SCTP,Codificação,Locação 15,Locação,,Sem conexão,,False
+1S12T,12,Via 1,Sul,N12-CTP,Codificação,Locação 15,Locação,LB A-23,Conectado,LB,False
+1S12T,12,Via 1,Sul,TPR,Indicação,Locação 15,Locação,,Sem conexão,,False
+1S12T,12,Via 1,Sul,TPRN,Indicação,Locação 15,Locação,,Sem conexão,,False
+1S12T,12,Via 1,Sul,NCTP,Codificação,Armário TB,Armário TB,TB4-C47,Conectado,TB,False
+1S12T,12,Via 1,Sul,SCTP,Codificação,Armário TB,Armário TB,TB2-E20,Conectado,TB,False
+1S12T,12,Via 1,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1S12T,12,Via 1,Sul,TPR,Indicação,Armário TB,Armário TB,TB3-B55,Conectado,TB,False
+1S12T,12,Via 1,Sul,TPRN,Indicação,Armário TB,Armário TB,TB3-B56,Conectado,TB,False
+1S12T,12,Via 1,Sul,NCTP,Codificação,Interface 2,Interface 2,B28 21,Conectado,Interface (B),False
+1S12T,12,Via 1,Sul,SCTP,Codificação,Interface 2,Interface 2,B28 23,Conectado,Interface (B),False
+1S12T,12,Via 1,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B28 26,Conectado,Interface (B),False
+1S12T,12,Via 1,Sul,TPR,Indicação,Interface 2,Interface 2,B28 30,Conectado,Interface (B),False
+1S12T,12,Via 1,Sul,TPRN,Indicação,Interface 2,Interface 2,B28 31,Conectado,Interface (B),False
+1S09T,9,Via 1,Sul,NCTP,Codificação,Locação 17,Locação,LC F-26,Conectado,LC,False
+1S09T,9,Via 1,Sul,SCTP,Codificação,Locação 17,Locação,LB B-9,Conectado,LB,False
+1S09T,9,Via 1,Sul,N12-CTP,Codificação,Locação 17,Locação,LB A-23,Conectado,LB,False
+1S09T,9,Via 1,Sul,TPR,Indicação,Locação 17,Locação,LB B-11,Conectado,LB,False
+1S09T,9,Via 1,Sul,TPRN,Indicação,Locação 17,Locação,LB B-13,Conectado,LB,False
+1S09T,9,Via 1,Sul,NCTP,Codificação,Locação 18,Locação,LC F-26,Conectado,LC,False
+1S09T,9,Via 1,Sul,SCTP,Codificação,Locação 18,Locação,,Sem conexão,,False
+1S09T,9,Via 1,Sul,N12-CTP,Codificação,Locação 18,Locação,LB A-21,Conectado,LB,False
+1S09T,9,Via 1,Sul,TPR,Indicação,Locação 18,Locação,,Sem conexão,,False
+1S09T,9,Via 1,Sul,TPRN,Indicação,Locação 18,Locação,,Sem conexão,,False
+1S09T,9,Via 1,Sul,NCTP,Codificação,Locação 20,Locação,LB B-33,Conectado,LB,False
+1S09T,9,Via 1,Sul,SCTP,Codificação,Locação 20,Locação,,Sem conexão,,False
+1S09T,9,Via 1,Sul,N12-CTP,Codificação,Locação 20,Locação,LB A-27,Conectado,LB,False
+1S09T,9,Via 1,Sul,TPR,Indicação,Locação 20,Locação,,Sem conexão,,False
+1S09T,9,Via 1,Sul,TPRN,Indicação,Locação 20,Locação,,Sem conexão,,False
+1S09T,9,Via 1,Sul,NCTP,Codificação,Armário TB,Armário TB,TB4-E51,Conectado,TB,False
+1S09T,9,Via 1,Sul,SCTP,Codificação,Armário TB,Armário TB,TB4-D34,Conectado,TB,False
+1S09T,9,Via 1,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1S09T,9,Via 1,Sul,TPR,Indicação,Armário TB,Armário TB,TB4-E59,Conectado,TB,False
+1S09T,9,Via 1,Sul,TPRN,Indicação,Armário TB,Armário TB,TB4-E60,Conectado,TB,False
+1S09T,9,Via 1,Sul,NCTP,Codificação,Interface 2,Interface 2,B31 21,Conectado,Interface (B),False
+1S09T,9,Via 1,Sul,SCTP,Codificação,Interface 2,Interface 2,B31 23,Conectado,Interface (B),False
+1S09T,9,Via 1,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B31 26,Conectado,Interface (B),False
+1S09T,9,Via 1,Sul,TPR,Indicação,Interface 2,Interface 2,B31 30,Conectado,Interface (B),False
+1S09T,9,Via 1,Sul,TPRN,Indicação,Interface 2,Interface 2,B31 31,Conectado,Interface (B),False
+1S06T (B),6,Via 1,Sul,NCTP,Codificação,Locação 14,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,SCTP,Codificação,Locação 14,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,N12-CTP,Codificação,Locação 14,Locação,LB A-21,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPR,Indicação,Locação 14,Locação,LB AA-7,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPRN,Indicação,Locação 14,Locação,LB AA-8,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,NCTP,Codificação,Locação 15,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,SCTP,Codificação,Locação 15,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,N12-CTP,Codificação,Locação 15,Locação,LB A-23,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPR,Indicação,Locação 15,Locação,LB AA-7,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPRN,Indicação,Locação 15,Locação,LB AA-8,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,NCTP,Codificação,Locação 16,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,SCTP,Codificação,Locação 16,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,N12-CTP,Codificação,Locação 16,Locação,LB A-27,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPR,Indicação,Locação 16,Locação,LB AA-7,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPRN,Indicação,Locação 16,Locação,LB AA-8,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,NCTP,Codificação,Locação 17,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,SCTP,Codificação,Locação 17,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,N12-CTP,Codificação,Locação 17,Locação,LB C-15,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPR,Indicação,Locação 17,Locação,LB AA-7,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPRN,Indicação,Locação 17,Locação,LB AA-8,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,NCTP,Codificação,Locação 18,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,SCTP,Codificação,Locação 18,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,N12-CTP,Codificação,Locação 18,Locação,LB A-21,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPR,Indicação,Locação 18,Locação,LB AA-7,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPRN,Indicação,Locação 18,Locação,LB AA-8,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,NCTP,Codificação,Locação 20,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,SCTP,Codificação,Locação 20,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,N12-CTP,Codificação,Locação 20,Locação,LB A-27,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPR,Indicação,Locação 20,Locação,LB AA-7,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPRN,Indicação,Locação 20,Locação,LB AA-8,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,NCTP,Codificação,Locação 21,Locação,LB B-1,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,SCTP,Codificação,Locação 21,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,N12-CTP,Codificação,Locação 21,Locação,LB A-31,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPR,Indicação,Locação 21,Locação,LB AA-7,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPRN,Indicação,Locação 21,Locação,LB AA-8,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,NCTP,Codificação,Locação 22,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,SCTP,Codificação,Locação 22,Locação,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,N12-CTP,Codificação,Locação 22,Locação,LB A-25,Conectado,LB,False
+1S06T (B),6,Via 1,Sul,TPR,Indicação,Locação 22,Locação,LC E-1,Conectado,LC,False
+1S06T (B),6,Via 1,Sul,TPRN,Indicação,Locação 22,Locação,LC E-2,Conectado,LC,False
+1S06T (B),6,Via 1,Sul,NCTP,Codificação,Armário TB,Armário TB,TB3-E36,Conectado,TB,False
+1S06T (B),6,Via 1,Sul,SCTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,TPR,Indicação,Armário TB,Armário TB,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,TPRN,Indicação,Armário TB,Armário TB,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,NCTP,Codificação,Interface 2,Interface 2,B34 21,Conectado,Interface (B),False
+1S06T (B),6,Via 1,Sul,SCTP,Codificação,Interface 2,Interface 2,,Sem conexão,,False
+1S06T (B),6,Via 1,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B34 26,Conectado,Interface (B),False
+1S06T (B),6,Via 1,Sul,TPR,Indicação,Interface 2,Interface 2,B34 30,Conectado,Interface (B),False
+1S06T (B),6,Via 1,Sul,TPRN,Indicação,Interface 2,Interface 2,B34 31,Conectado,Interface (B),False
+2S13T,13,Via 2,Sul,NCTP,Codificação,Locação 10,Locação,,Sem conexão,,False
+2S13T,13,Via 2,Sul,SCTP,Codificação,Locação 10,Locação,LB A-33,Conectado,LB,False
+2S13T,13,Via 2,Sul,N12-CTP,Codificação,Locação 10,Locação,LB A-21,Conectado,LB,False
+2S13T,13,Via 2,Sul,TPR,Indicação,Locação 10,Locação,LB A-35,Conectado,LB,False
+2S13T,13,Via 2,Sul,TPRN,Indicação,Locação 10,Locação,LB A-30,Conectado,LB,False
+2S13T,13,Via 2,Sul,NCTP,Codificação,Locação 14,Locação,LB A-33,Conectado,LB,False
+2S13T,13,Via 2,Sul,SCTP,Codificação,Locação 14,Locação,,Sem conexão,,False
+2S13T,13,Via 2,Sul,N12-CTP,Codificação,Locação 14,Locação,LB A-21,Conectado,LB,False
+2S13T,13,Via 2,Sul,TPR,Indicação,Locação 14,Locação,,Sem conexão,,False
+2S13T,13,Via 2,Sul,TPRN,Indicação,Locação 14,Locação,,Sem conexão,,False
+2S13T,13,Via 2,Sul,NCTP,Codificação,Armário TB,Armário TB,TB3-C32,Conectado,TB,False
+2S13T,13,Via 2,Sul,SCTP,Codificação,Armário TB,Armário TB,TB2-E19,Conectado,TB,False
+2S13T,13,Via 2,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2S13T,13,Via 2,Sul,TPR,Indicação,Armário TB,Armário TB,TB3-B45,Conectado,TB,False
+2S13T,13,Via 2,Sul,TPRN,Indicação,Armário TB,Armário TB,TB3-B46,Conectado,TB,False
+2S13T,13,Via 2,Sul,NCTP,Codificação,Interface 2,Interface 2,B39 21,Conectado,Interface (B),False
+2S13T,13,Via 2,Sul,SCTP,Codificação,Interface 2,Interface 2,B39 23,Conectado,Interface (B),False
+2S13T,13,Via 2,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B39 26,Conectado,Interface (B),False
+2S13T,13,Via 2,Sul,TPR,Indicação,Interface 2,Interface 2,B39 30,Conectado,Interface (B),False
+2S13T,13,Via 2,Sul,TPRN,Indicação,Interface 2,Interface 2,B39 31,Conectado,Interface (B),False
+2S12T,12,Via 2,Sul,NCTP,Codificação,Locação 14,Locação,,Sem conexão,,False
+2S12T,12,Via 2,Sul,SCTP,Codificação,Locação 14,Locação,LB B-1,Conectado,LB,False
+2S12T,12,Via 2,Sul,N12-CTP,Codificação,Locação 14,Locação,LB A-21,Conectado,LB,False
+2S12T,12,Via 2,Sul,TPR,Indicação,Locação 14,Locação,LB B-3,Conectado,LB,False
+2S12T,12,Via 2,Sul,TPRN,Indicação,Locação 14,Locação,LB B-5,Conectado,LB,False
+2S12T,12,Via 2,Sul,NCTP,Codificação,Locação 16,Locação,LB B-11,Conectado,LB,False
+2S12T,12,Via 2,Sul,SCTP,Codificação,Locação 16,Locação,,Sem conexão,,False
+2S12T,12,Via 2,Sul,N12-CTP,Codificação,Locação 16,Locação,LB A-27,Conectado,LB,False
+2S12T,12,Via 2,Sul,TPR,Indicação,Locação 16,Locação,,Sem conexão,,False
+2S12T,12,Via 2,Sul,TPRN,Indicação,Locação 16,Locação,,Sem conexão,,False
+2S12T,12,Via 2,Sul,NCTP,Codificação,Armário TB,Armário TB,TB4-C50,Conectado,TB,False
+2S12T,12,Via 2,Sul,SCTP,Codificação,Armário TB,Armário TB,TB3-C33,Conectado,TB,False
+2S12T,12,Via 2,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2S12T,12,Via 2,Sul,TPR,Indicação,Armário TB,Armário TB,TB3-B49,Conectado,TB,False
+2S12T,12,Via 2,Sul,TPRN,Indicação,Armário TB,Armário TB,TB3-B50,Conectado,TB,False
+2S12T,12,Via 2,Sul,NCTP,Codificação,Interface 2,Interface 2,B40 21,Conectado,Interface (B),False
+2S12T,12,Via 2,Sul,SCTP,Codificação,Interface 2,Interface 2,B40 23,Conectado,Interface (B),False
+2S12T,12,Via 2,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B40 26,Conectado,Interface (B),False
+2S12T,12,Via 2,Sul,TPR,Indicação,Interface 2,Interface 2,B40 30,Conectado,Interface (B),False
+2S12T,12,Via 2,Sul,TPRN,Indicação,Interface 2,Interface 2,B40 31,Conectado,Interface (B),False
+2S11T (C),11,Via 2,Sul,NCTP,Codificação,Locação 17,Locação,,Sem conexão,,False
+2S11T (C),11,Via 2,Sul,SCTP,Codificação,Locação 17,Locação,LC F-6,Conectado,LC,False
+2S11T (C),11,Via 2,Sul,N12-CTP,Codificação,Locação 17,Locação,LB C-15,Conectado,LB,False
+2S11T (C),11,Via 2,Sul,TPR,Indicação,Locação 17,Locação,LC F-30,Conectado,LC,False
+2S11T (C),11,Via 2,Sul,TPRN,Indicação,Locação 17,Locação,LC F-32,Conectado,LC,False
+2S11T (C),11,Via 2,Sul,NCTP,Codificação,Locação 18,Locação,,Sem conexão,,False
+2S11T (C),11,Via 2,Sul,SCTP,Codificação,Locação 18,Locação,LC F-6,Conectado,LC,False
+2S11T (C),11,Via 2,Sul,N12-CTP,Codificação,Locação 18,Locação,LB A-21,Conectado,LB,False
+2S11T (C),11,Via 2,Sul,TPR,Indicação,Locação 18,Locação,LC F-30,Conectado,LC,False
+2S11T (C),11,Via 2,Sul,TPRN,Indicação,Locação 18,Locação,LC F-32,Conectado,LC,False
+2S11T (C),11,Via 2,Sul,NCTP,Codificação,Locação 20,Locação,,Sem conexão,,False
+2S11T (C),11,Via 2,Sul,SCTP,Codificação,Locação 20,Locação,LB B-19,Conectado,LB,False
+2S11T (C),11,Via 2,Sul,N12-CTP,Codificação,Locação 20,Locação,LB A-27,Conectado,LB,False
+2S11T (C),11,Via 2,Sul,TPR,Indicação,Locação 20,Locação,LB B-21,Conectado,LB,False
+2S11T (C),11,Via 2,Sul,TPRN,Indicação,Locação 20,Locação,LB B-23,Conectado,LB,False
+2S11T (C),11,Via 2,Sul,NCTP,Codificação,Locação 22,Locação,LB A-53,Conectado,LB,False
+2S11T (C),11,Via 2,Sul,SCTP,Codificação,Locação 22,Locação,,Sem conexão,,False
+2S11T (C),11,Via 2,Sul,N12-CTP,Codificação,Locação 22,Locação,LB A-25,Conectado,LB,False
+2S11T (C),11,Via 2,Sul,TPR,Indicação,Locação 22,Locação,,Sem conexão,,False
+2S11T (C),11,Via 2,Sul,TPRN,Indicação,Locação 22,Locação,,Sem conexão,,False
+2S11T (C),11,Via 2,Sul,NCTP,Codificação,Armário TB,Armário TB,TB3-E38,Conectado,TB,False
+2S11T (C),11,Via 2,Sul,SCTP,Codificação,Armário TB,Armário TB,TB34-A3,Conectado,TB,True
+2S11T (C),11,Via 2,Sul,N12-CTP,Codificação,Armário TB,Armário TB,,Sem conexão,,False
+2S11T (C),11,Via 2,Sul,TPR,Indicação,Armário TB,Armário TB,TB4-E44,Conectado,TB,False
+2S11T (C),11,Via 2,Sul,TPRN,Indicação,Armário TB,Armário TB,TB4-E45,Conectado,TB,False
+2S11T (C),11,Via 2,Sul,NCTP,Codificação,Interface 2,Interface 2,B43 21,Conectado,Interface (B),False
+2S11T (C),11,Via 2,Sul,SCTP,Codificação,Interface 2,Interface 2,B43 23,Conectado,Interface (B),False
+2S11T (C),11,Via 2,Sul,N12-CTP,Codificação,Interface 2,Interface 2,B43 26,Conectado,Interface (B),False
+2S11T (C),11,Via 2,Sul,TPR,Indicação,Interface 2,Interface 2,B43 30,Conectado,Interface (B),False
+2S11T (C),11,Via 2,Sul,TPRN,Indicação,Interface 2,Interface 2,B43 31,Conectado,Interface (B),False

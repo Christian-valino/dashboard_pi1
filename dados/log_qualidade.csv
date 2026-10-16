@@ -1,0 +1,22 @@
+﻿base,equipamento,local,funcao,valor_original,valor_tratado,motivo
+Sinais,Sinal 28,Interface 2,YGENX,B3028,B30 28,padronização de formato
+Sinais,Sinal 30,-,cabeçalho,RGE,30RGE,código sem o número do sinal: número deduzido do título
+Sinais,Sinal 56,Interface 2,RGENX,B5032,B50 32,padronização de formato
+Sinais,Sinal 12,Armário TB,RGE,TB-E59,TB-E59,"formato fora do padrão: manter, mas CONFERIR na fonte"
+Sinais,Sinal 70,Armário TB,RGENX,TB2-29,TB2-29,"formato fora do padrão: manter, mas CONFERIR na fonte"
+Sinais,Sinal 70,Armário TB,YGE,TB2-31,TB2-31,"formato fora do padrão: manter, mas CONFERIR na fonte"
+Sinais,Sinal 70,Armário TB,YGENX,TB2-32,TB2-32,"formato fora do padrão: manter, mas CONFERIR na fonte"
+Sinais,Sinal 30,Interface 2,YGENX,B24,B24,"formato fora do padrão: manter, mas CONFERIR na fonte"
+CDVs,1N08T,Interface 2,TPR,B 59 01,B59 01,padronização de formato
+CDVs,1N10T,Locação 3,SCTP,LB A-23 / LB B-22,LB A-23 | LB B-22,célula com 2 terminais: separada em 2 linhas
+CDVs,1N10T,Locação 5,NCTP,LB A-20 / LB B-11,LB A-20 | LB B-11,célula com 2 terminais: separada em 2 linhas
+CDVs,2N09T,Interface 2,SCTP,B0923,B09 23,padronização de formato
+CDVs,2N10T,Locação 6,TPRN,BL B-11,LB B-11,padronização de formato
+CDVs,1S06T,-,título,CDV 1S06T LUZ,1S06T (A),"nome de CDV repetido na planilha: sufixo (A), (B)... adicionado - CONFERIR"
+CDVs,2S11T,-,título,CDV 2S11T LUZ,2S11T (A),"nome de CDV repetido na planilha: sufixo (A), (B)... adicionado - CONFERIR"
+CDVs,2S11T,-,título,CDV 2S11T LUZ,2S11T (B),"nome de CDV repetido na planilha: sufixo (A), (B)... adicionado - CONFERIR"
+CDVs,2S11T (B),Interface 2,SCTP,B4423,B44 23,padronização de formato
+CDVs,1S06T,-,título,CDV 1S06T LUZ,1S06T (B),"nome de CDV repetido na planilha: sufixo (A), (B)... adicionado - CONFERIR"
+CDVs,2S11T,-,título,CDV 2S11T LUZ,2S11T (C),"nome de CDV repetido na planilha: sufixo (A), (B)... adicionado - CONFERIR"
+CDVs,1N10T,Armário TB,TPRN,TB3-46,TB3-46,"formato fora do padrão: manter, mas CONFERIR na fonte"
+CDVs,2S11T (C),Armário TB,SCTP,TB34-A3,TB34-A3,"formato fora do padrão: manter, mas CONFERIR na fonte"

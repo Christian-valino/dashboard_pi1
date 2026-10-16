@@ -1,0 +1,261 @@
+﻿sinal,sinal_nome,funcao,aspecto,local,tipo_local,terminal,status,prefixo_terminal,terminal_suspeito
+4,Sinal 4,RGE,Vermelho,Locação 1,Locação,LB B-12,Conectado,LB,False
+4,Sinal 4,RGENX,Vermelho,Locação 1,Locação,LB B-10,Conectado,LB,False
+4,Sinal 4,YGE,Amarelo,Locação 1,Locação,LB B-14,Conectado,LB,False
+4,Sinal 4,YGENX,Amarelo,Locação 1,Locação,LB B-16,Conectado,LB,False
+4,Sinal 4,RGE,Vermelho,Locação 5,Locação,LC D-1,Conectado,LC,False
+4,Sinal 4,RGENX,Vermelho,Locação 5,Locação,LC D-2,Conectado,LC,False
+4,Sinal 4,YGE,Amarelo,Locação 5,Locação,LC D-6,Conectado,LC,False
+4,Sinal 4,YGENX,Amarelo,Locação 5,Locação,LC D-8,Conectado,LC,False
+4,Sinal 4,RGE,Vermelho,Armário TB,Armário TB,TB2-E5,Conectado,TB,False
+4,Sinal 4,RGENX,Vermelho,Armário TB,Armário TB,TB2-E4,Conectado,TB,False
+4,Sinal 4,YGE,Amarelo,Armário TB,Armário TB,TB2-E6,Conectado,TB,False
+4,Sinal 4,YGENX,Amarelo,Armário TB,Armário TB,TB2-E7,Conectado,TB,False
+4,Sinal 4,RGE,Vermelho,Interface 2,Interface 2,B13 22,Conectado,Interface (B),False
+4,Sinal 4,RGENX,Vermelho,Interface 2,Interface 2,B13 24,Conectado,Interface (B),False
+4,Sinal 4,YGE,Amarelo,Interface 2,Interface 2,B13 26,Conectado,Interface (B),False
+4,Sinal 4,YGENX,Amarelo,Interface 2,Interface 2,B13 28,Conectado,Interface (B),False
+6,Sinal 6,RGE,Vermelho,Locação 2,Locação,LB B-36,Conectado,LB,False
+6,Sinal 6,RGENX,Vermelho,Locação 2,Locação,LB B-34,Conectado,LB,False
+6,Sinal 6,YGE,Amarelo,Locação 2,Locação,LB B-38,Conectado,LB,False
+6,Sinal 6,YGENX,Amarelo,Locação 2,Locação,LB B-40,Conectado,LB,False
+6,Sinal 6,RGE,Vermelho,Locação 5,Locação,LC C-18,Conectado,LC,False
+6,Sinal 6,RGENX,Vermelho,Locação 5,Locação,LC C-16,Conectado,LC,False
+6,Sinal 6,YGE,Amarelo,Locação 5,Locação,LC C-20,Conectado,LC,False
+6,Sinal 6,YGENX,Amarelo,Locação 5,Locação,LC C-22,Conectado,LC,False
+6,Sinal 6,RGE,Vermelho,Armário TB,Armário TB,TB2-D58,Conectado,TB,False
+6,Sinal 6,RGENX,Vermelho,Armário TB,Armário TB,TB2-D59,Conectado,TB,False
+6,Sinal 6,YGE,Amarelo,Armário TB,Armário TB,TB2-D60,Conectado,TB,False
+6,Sinal 6,YGENX,Amarelo,Armário TB,Armário TB,TB2-E1,Conectado,TB,False
+6,Sinal 6,RGE,Vermelho,Interface 2,Interface 2,B14 22,Conectado,Interface (B),False
+6,Sinal 6,RGENX,Vermelho,Interface 2,Interface 2,B14 24,Conectado,Interface (B),False
+6,Sinal 6,YGE,Amarelo,Interface 2,Interface 2,B14 26,Conectado,Interface (B),False
+6,Sinal 6,YGENX,Amarelo,Interface 2,Interface 2,B14 28,Conectado,Interface (B),False
+12,Sinal 12,RGE,Vermelho,Locação 3,Locação,LB C-11,Conectado,LB,False
+12,Sinal 12,RGENX,Vermelho,Locação 3,Locação,LB C-13,Conectado,LB,False
+12,Sinal 12,YGE,Amarelo,Locação 3,Locação,LB C-15,Conectado,LB,False
+12,Sinal 12,YGENX,Amarelo,Locação 3,Locação,LB C-17,Conectado,LB,False
+12,Sinal 12,RGE,Vermelho,Locação 5,Locação,LC B-44,Conectado,LC,False
+12,Sinal 12,RGENX,Vermelho,Locação 5,Locação,LC B-43,Conectado,LC,False
+12,Sinal 12,YGE,Amarelo,Locação 5,Locação,LC B-45,Conectado,LC,False
+12,Sinal 12,YGENX,Amarelo,Locação 5,Locação,LC B-46,Conectado,LC,False
+12,Sinal 12,RGE,Vermelho,Armário TB,Armário TB,TB-E59,Conectado,TB,True
+12,Sinal 12,RGENX,Vermelho,Armário TB,Armário TB,TB2-E60,Conectado,TB,False
+12,Sinal 12,YGE,Amarelo,Armário TB,Armário TB,TB2-E27,Conectado,TB,False
+12,Sinal 12,YGENX,Amarelo,Armário TB,Armário TB,TB2-E28,Conectado,TB,False
+12,Sinal 12,RGE,Vermelho,Interface 2,Interface 2,B15 22,Conectado,Interface (B),False
+12,Sinal 12,RGENX,Vermelho,Interface 2,Interface 2,B15 24,Conectado,Interface (B),False
+12,Sinal 12,YGE,Amarelo,Interface 2,Interface 2,B15 26,Conectado,Interface (B),False
+12,Sinal 12,YGENX,Amarelo,Interface 2,Interface 2,B15 28,Conectado,Interface (B),False
+16,Sinal 16,RGE,Vermelho,Locação 5,Locação,LB B-24,Conectado,LB,False
+16,Sinal 16,RGENX,Vermelho,Locação 5,Locação,LB B-22,Conectado,LB,False
+16,Sinal 16,YGE,Amarelo,Locação 5,Locação,LB B-26,Conectado,LB,False
+16,Sinal 16,YGENX,Amarelo,Locação 5,Locação,LB B-28,Conectado,LB,False
+16,Sinal 16,RGE,Vermelho,Armário TB,Armário TB,TB2-C10,Conectado,TB,False
+16,Sinal 16,RGENX,Vermelho,Armário TB,Armário TB,TB2-C9,Conectado,TB,False
+16,Sinal 16,YGE,Amarelo,Armário TB,Armário TB,TB2-C11,Conectado,TB,False
+16,Sinal 16,YGENX,Amarelo,Armário TB,Armário TB,TB2-C12,Conectado,TB,False
+16,Sinal 16,RGE,Vermelho,Interface 2,Interface 2,B16 22,Conectado,Interface (B),False
+16,Sinal 16,RGENX,Vermelho,Interface 2,Interface 2,B16 24,Conectado,Interface (B),False
+16,Sinal 16,YGE,Amarelo,Interface 2,Interface 2,B16 26,Conectado,Interface (B),False
+16,Sinal 16,YGENX,Amarelo,Interface 2,Interface 2,B16 28,Conectado,Interface (B),False
+16,Sinal 16,RGE,Vermelho,Bastidor DCC1,Bastidor DCC1,BAC21,Conectado,Bastidor (BAC),False
+16,Sinal 16,RGENX,Vermelho,Bastidor DCC1,Bastidor DCC1,BAC22,Conectado,Bastidor (BAC),False
+16,Sinal 16,YGE,Amarelo,Bastidor DCC1,Bastidor DCC1,BAC19,Conectado,Bastidor (BAC),False
+16,Sinal 16,YGENX,Amarelo,Bastidor DCC1,Bastidor DCC1,BAC20,Conectado,Bastidor (BAC),False
+20,Sinal 20,RGE,Vermelho,Locação 6,Locação,LB B-34,Conectado,LB,False
+20,Sinal 20,RGENX,Vermelho,Locação 6,Locação,LB B-32,Conectado,LB,False
+20,Sinal 20,YGE,Amarelo,Locação 6,Locação,LB B-36,Conectado,LB,False
+20,Sinal 20,YGENX,Amarelo,Locação 6,Locação,LB B-38,Conectado,LB,False
+20,Sinal 20,RGE,Vermelho,Armário TB,Armário TB,TB2-C4,Conectado,TB,False
+20,Sinal 20,RGENX,Vermelho,Armário TB,Armário TB,TB2-C3,Conectado,TB,False
+20,Sinal 20,YGE,Amarelo,Armário TB,Armário TB,TB2-C5,Conectado,TB,False
+20,Sinal 20,YGENX,Amarelo,Armário TB,Armário TB,TB2-C6,Conectado,TB,False
+20,Sinal 20,RGE,Vermelho,Interface 2,Interface 2,B17 22,Conectado,Interface (B),False
+20,Sinal 20,RGENX,Vermelho,Interface 2,Interface 2,B17 24,Conectado,Interface (B),False
+20,Sinal 20,YGE,Amarelo,Interface 2,Interface 2,B17 26,Conectado,Interface (B),False
+20,Sinal 20,YGENX,Amarelo,Interface 2,Interface 2,B17 28,Conectado,Interface (B),False
+22,Sinal 22,RGE,Vermelho,Locação 6,Locação,LB B-24,Conectado,LB,False
+22,Sinal 22,RGENX,Vermelho,Locação 6,Locação,LB B-22,Conectado,LB,False
+22,Sinal 22,YGE,Amarelo,Locação 6,Locação,LB B-26,Conectado,LB,False
+22,Sinal 22,YGENX,Amarelo,Locação 6,Locação,LB B-28,Conectado,LB,False
+22,Sinal 22,RGE,Vermelho,Armário TB,Armário TB,TB2-B58,Conectado,TB,False
+22,Sinal 22,RGENX,Vermelho,Armário TB,Armário TB,TB2-B57,Conectado,TB,False
+22,Sinal 22,YGE,Amarelo,Armário TB,Armário TB,TB2-B59,Conectado,TB,False
+22,Sinal 22,YGENX,Amarelo,Armário TB,Armário TB,TB2-B60,Conectado,TB,False
+22,Sinal 22,RGE,Vermelho,Interface 2,Interface 2,B18 22,Conectado,Interface (B),False
+22,Sinal 22,RGENX,Vermelho,Interface 2,Interface 2,B18 24,Conectado,Interface (B),False
+22,Sinal 22,YGE,Amarelo,Interface 2,Interface 2,B18 26,Conectado,Interface (B),False
+22,Sinal 22,YGENX,Amarelo,Interface 2,Interface 2,B18 28,Conectado,Interface (B),False
+70,Sinal 70,RGE,Vermelho,Locação 7,Locação,LB B-28,Conectado,LB,False
+70,Sinal 70,RGENX,Vermelho,Locação 7,Locação,LB B-26,Conectado,LB,False
+70,Sinal 70,YGE,Amarelo,Locação 7,Locação,LB B-30,Conectado,LB,False
+70,Sinal 70,YGENX,Amarelo,Locação 7,Locação,LB B-32,Conectado,LB,False
+70,Sinal 70,RGE,Vermelho,Armário TB,Armário TB,TB2-B30,Conectado,TB,False
+70,Sinal 70,RGENX,Vermelho,Armário TB,Armário TB,TB2-29,Conectado,TB,True
+70,Sinal 70,YGE,Amarelo,Armário TB,Armário TB,TB2-31,Conectado,TB,True
+70,Sinal 70,YGENX,Amarelo,Armário TB,Armário TB,TB2-32,Conectado,TB,True
+70,Sinal 70,RGE,Vermelho,Interface 2,Interface 2,B13 30,Conectado,Interface (B),False
+70,Sinal 70,RGENX,Vermelho,Interface 2,Interface 2,B13 32,Conectado,Interface (B),False
+70,Sinal 70,YGE,Amarelo,Interface 2,Interface 2,B14 30,Conectado,Interface (B),False
+70,Sinal 70,YGENX,Amarelo,Interface 2,Interface 2,B14 32,Conectado,Interface (B),False
+72,Sinal 72,RGE,Vermelho,Locação 7,Locação,LB B-16,Conectado,LB,False
+72,Sinal 72,RGENX,Vermelho,Locação 7,Locação,LB B-14,Conectado,LB,False
+72,Sinal 72,YGE,Amarelo,Locação 7,Locação,LB B-18,Conectado,LB,False
+72,Sinal 72,YGENX,Amarelo,Locação 7,Locação,LB B-20,Conectado,LB,False
+72,Sinal 72,RGE,Vermelho,Armário TB,Armário TB,TB2-B24,Conectado,TB,False
+72,Sinal 72,RGENX,Vermelho,Armário TB,Armário TB,TB2-B23,Conectado,TB,False
+72,Sinal 72,YGE,Amarelo,Armário TB,Armário TB,TB2-B25,Conectado,TB,False
+72,Sinal 72,YGENX,Amarelo,Armário TB,Armário TB,TB2-B26,Conectado,TB,False
+72,Sinal 72,RGE,Vermelho,Interface 2,Interface 2,B15 30,Conectado,Interface (B),False
+72,Sinal 72,RGENX,Vermelho,Interface 2,Interface 2,B15 32,Conectado,Interface (B),False
+72,Sinal 72,YGE,Amarelo,Interface 2,Interface 2,B16 30,Conectado,Interface (B),False
+72,Sinal 72,YGENX,Amarelo,Interface 2,Interface 2,B16 32,Conectado,Interface (B),False
+78,Sinal 78,RGE,Vermelho,Locação 10,Locação,LB B-20,Conectado,LB,False
+78,Sinal 78,RGENX,Vermelho,Locação 10,Locação,LB B-18,Conectado,LB,False
+78,Sinal 78,YGE,Amarelo,Locação 10,Locação,LB B-22,Conectado,LB,False
+78,Sinal 78,YGENX,Amarelo,Locação 10,Locação,LB B-24,Conectado,LB,False
+78,Sinal 78,RGE,Vermelho,Armário TB,Armário TB,TB2-A40,Conectado,TB,False
+78,Sinal 78,RGENX,Vermelho,Armário TB,Armário TB,TB2-A39,Conectado,TB,False
+78,Sinal 78,YGE,Amarelo,Armário TB,Armário TB,TB2-A41,Conectado,TB,False
+78,Sinal 78,YGENX,Amarelo,Armário TB,Armário TB,TB2-A42,Conectado,TB,False
+78,Sinal 78,RGE,Vermelho,Interface 2,Interface 2,B17 30,Conectado,Interface (B),False
+78,Sinal 78,RGENX,Vermelho,Interface 2,Interface 2,B17 32,Conectado,Interface (B),False
+78,Sinal 78,YGE,Amarelo,Interface 2,Interface 2,B18 30,Conectado,Interface (B),False
+78,Sinal 78,YGENX,Amarelo,Interface 2,Interface 2,B18 32,Conectado,Interface (B),False
+80,Sinal 80,RGE,Vermelho,Locação 10,Locação,LB B-8,Conectado,LB,False
+80,Sinal 80,RGENX,Vermelho,Locação 10,Locação,LB B-6,Conectado,LB,False
+80,Sinal 80,YGE,Amarelo,Locação 10,Locação,LB B-10,Conectado,LB,False
+80,Sinal 80,YGENX,Amarelo,Locação 10,Locação,LB B-12,Conectado,LB,False
+80,Sinal 80,RGE,Vermelho,Armário TB,Armário TB,TB2-A34,Conectado,TB,False
+80,Sinal 80,RGENX,Vermelho,Armário TB,Armário TB,TB2-A33,Conectado,TB,False
+80,Sinal 80,YGE,Amarelo,Armário TB,Armário TB,TB2-A35,Conectado,TB,False
+80,Sinal 80,YGENX,Amarelo,Armário TB,Armário TB,TB2-A36,Conectado,TB,False
+80,Sinal 80,RGE,Vermelho,Interface 2,Interface 2,B19 22,Conectado,Interface (B),False
+80,Sinal 80,RGENX,Vermelho,Interface 2,Interface 2,B19 24,Conectado,Interface (B),False
+80,Sinal 80,YGE,Amarelo,Interface 2,Interface 2,B19 26,Conectado,Interface (B),False
+80,Sinal 80,YGENX,Amarelo,Interface 2,Interface 2,B19 28,Conectado,Interface (B),False
+28,Sinal 28,RGE,Vermelho,Locação 14,Locação,LB B-14,Conectado,LB,False
+28,Sinal 28,RGENX,Vermelho,Locação 14,Locação,LB B-12,Conectado,LB,False
+28,Sinal 28,YGE,Amarelo,Locação 14,Locação,LB B-16,Conectado,LB,False
+28,Sinal 28,YGENX,Amarelo,Locação 14,Locação,LB B-18,Conectado,LB,False
+28,Sinal 28,RGE,Vermelho,Armário TB,Armário TB,,Não preenchido,,False
+28,Sinal 28,RGENX,Vermelho,Armário TB,Armário TB,,Não preenchido,,False
+28,Sinal 28,YGE,Amarelo,Armário TB,Armário TB,,Não preenchido,,False
+28,Sinal 28,YGENX,Amarelo,Armário TB,Armário TB,,Não preenchido,,False
+28,Sinal 28,RGE,Vermelho,Interface 2,Interface 2,B30 22,Conectado,Interface (B),False
+28,Sinal 28,RGENX,Vermelho,Interface 2,Interface 2,B30 24,Conectado,Interface (B),False
+28,Sinal 28,YGE,Amarelo,Interface 2,Interface 2,B30 26,Conectado,Interface (B),False
+28,Sinal 28,YGENX,Amarelo,Interface 2,Interface 2,B30 28,Conectado,Interface (B),False
+30,Sinal 30,RGE,Vermelho,Locação 14,Locação,LB B-32,Conectado,LB,False
+30,Sinal 30,RGENX,Vermelho,Locação 14,Locação,LB B-30,Conectado,LB,False
+30,Sinal 30,YGE,Amarelo,Locação 14,Locação,LB B-34,Conectado,LB,False
+30,Sinal 30,YGENX,Amarelo,Locação 14,Locação,LB B-36,Conectado,LB,False
+30,Sinal 30,RGE,Vermelho,Armário TB,Armário TB,TB3-C28,Conectado,TB,False
+30,Sinal 30,RGENX,Vermelho,Armário TB,Armário TB,TB3-C27,Conectado,TB,False
+30,Sinal 30,YGE,Amarelo,Armário TB,Armário TB,TB3-C29,Conectado,TB,False
+30,Sinal 30,YGENX,Amarelo,Armário TB,Armário TB,TB3-C30,Conectado,TB,False
+30,Sinal 30,RGE,Vermelho,Interface 2,Interface 2,B24 22,Conectado,Interface (B),False
+30,Sinal 30,RGENX,Vermelho,Interface 2,Interface 2,B24 24,Conectado,Interface (B),False
+30,Sinal 30,YGE,Amarelo,Interface 2,Interface 2,B24 26,Conectado,Interface (B),False
+30,Sinal 30,YGENX,Amarelo,Interface 2,Interface 2,B24,Conectado,Interface (B),True
+62,Sinal 62,RGE,Vermelho,Locação 16,Locação,LB C-30,Conectado,LB,False
+62,Sinal 62,RGENX,Vermelho,Locação 16,Locação,LB C-28,Conectado,LB,False
+62,Sinal 62,YGE,Amarelo,Locação 16,Locação,LB C-32,Conectado,LB,False
+62,Sinal 62,YGENX,Amarelo,Locação 16,Locação,LB C-34,Conectado,LB,False
+62,Sinal 62,RGE,Vermelho,Armário TB,Armário TB,TB4-A15,Conectado,TB,False
+62,Sinal 62,RGENX,Vermelho,Armário TB,Armário TB,TB4-A14,Conectado,TB,False
+62,Sinal 62,YGE,Amarelo,Armário TB,Armário TB,TB4-A16,Conectado,TB,False
+62,Sinal 62,YGENX,Amarelo,Armário TB,Armário TB,TB4-A17,Conectado,TB,False
+62,Sinal 62,RGE,Vermelho,Interface 2,Interface 2,B49 22,Conectado,Interface (B),False
+62,Sinal 62,RGENX,Vermelho,Interface 2,Interface 2,B49 24,Conectado,Interface (B),False
+62,Sinal 62,YGE,Amarelo,Interface 2,Interface 2,B49 26,Conectado,Interface (B),False
+62,Sinal 62,YGENX,Amarelo,Interface 2,Interface 2,B49 28,Conectado,Interface (B),False
+64,Sinal 64,RGE,Vermelho,Locação 16,Locação,LB C-20,Conectado,LB,False
+64,Sinal 64,RGENX,Vermelho,Locação 16,Locação,LB C-18,Conectado,LB,False
+64,Sinal 64,YGE,Amarelo,Locação 16,Locação,LB C-38,Conectado,LB,False
+64,Sinal 64,YGENX,Amarelo,Locação 16,Locação,LB C-24,Conectado,LB,False
+64,Sinal 64,RGE,Vermelho,Armário TB,Armário TB,TB4-E10,Conectado,TB,False
+64,Sinal 64,RGENX,Vermelho,Armário TB,Armário TB,TB4-E9,Conectado,TB,False
+64,Sinal 64,YGE,Amarelo,Armário TB,Armário TB,TB4-E11,Conectado,TB,False
+64,Sinal 64,YGENX,Amarelo,Armário TB,Armário TB,TB4-E12,Conectado,TB,False
+64,Sinal 64,RGE,Vermelho,Interface 2,Interface 2,B47 30,Conectado,Interface (B),False
+64,Sinal 64,RGENX,Vermelho,Interface 2,Interface 2,B47 32,Conectado,Interface (B),False
+64,Sinal 64,YGE,Amarelo,Interface 2,Interface 2,B48 30,Conectado,Interface (B),False
+64,Sinal 64,YGENX,Amarelo,Interface 2,Interface 2,B48 32,Conectado,Interface (B),False
+66,Sinal 66,RGE,Vermelho,Locação 21,Locação,LB C-30,Conectado,LB,False
+66,Sinal 66,RGENX,Vermelho,Locação 21,Locação,LB C-28,Conectado,LB,False
+66,Sinal 66,YGE,Amarelo,Locação 21,Locação,LB C-32,Conectado,LB,False
+66,Sinal 66,YGENX,Amarelo,Locação 21,Locação,LB C-34,Conectado,LB,False
+66,Sinal 66,RGE,Vermelho,Armário TB,Armário TB,TB3-E40,Conectado,TB,False
+66,Sinal 66,RGENX,Vermelho,Armário TB,Armário TB,TB3-E39,Conectado,TB,False
+66,Sinal 66,YGE,Amarelo,Armário TB,Armário TB,TB3-E41,Conectado,TB,False
+66,Sinal 66,YGENX,Amarelo,Armário TB,Armário TB,TB3-E42,Conectado,TB,False
+66,Sinal 66,RGE,Vermelho,Interface 2,Interface 2,B38 26,Conectado,Interface (B),False
+66,Sinal 66,RGENX,Vermelho,Interface 2,Interface 2,B38 28,Conectado,Interface (B),False
+66,Sinal 66,YGE,Amarelo,Interface 2,Interface 2,B38 30,Conectado,Interface (B),False
+66,Sinal 66,YGENX,Amarelo,Interface 2,Interface 2,B38 32,Conectado,Interface (B),False
+68,Sinal 68,RGE,Vermelho,Locação 20,Locação,LB C-8,Conectado,LB,False
+68,Sinal 68,RGENX,Vermelho,Locação 20,Locação,LB C-6,Conectado,LB,False
+68,Sinal 68,YGE,Amarelo,Locação 20,Locação,LB C-10,Conectado,LB,False
+68,Sinal 68,YGENX,Amarelo,Locação 20,Locação,LB C-12,Conectado,LB,False
+68,Sinal 68,RGE,Vermelho,Locação 18,Locação,LC F-54,Conectado,LC,False
+68,Sinal 68,RGENX,Vermelho,Locação 18,Locação,LC F-56,Conectado,LC,False
+68,Sinal 68,YGE,Amarelo,Locação 18,Locação,LC F-58,Conectado,LC,False
+68,Sinal 68,YGENX,Amarelo,Locação 18,Locação,LC F-60,Conectado,LC,False
+68,Sinal 68,RGE,Vermelho,Locação 17,Locação,LC F-54,Conectado,LC,False
+68,Sinal 68,RGENX,Vermelho,Locação 17,Locação,LC F-56,Conectado,LC,False
+68,Sinal 68,YGE,Amarelo,Locação 17,Locação,LC F-58,Conectado,LC,False
+68,Sinal 68,YGENX,Amarelo,Locação 17,Locação,LC F-60,Conectado,LC,False
+68,Sinal 68,RGE,Vermelho,Armário TB,Armário TB,TB3-E58,Conectado,TB,False
+68,Sinal 68,RGENX,Vermelho,Armário TB,Armário TB,TB3-E57,Conectado,TB,False
+68,Sinal 68,YGE,Amarelo,Armário TB,Armário TB,TB3-E59,Conectado,TB,False
+68,Sinal 68,YGENX,Amarelo,Armário TB,Armário TB,TB3-E60,Conectado,TB,False
+68,Sinal 68,RGE,Vermelho,Interface 2,Interface 2,B47 22,Conectado,Interface (B),False
+68,Sinal 68,RGENX,Vermelho,Interface 2,Interface 2,B47 24,Conectado,Interface (B),False
+68,Sinal 68,YGE,Amarelo,Interface 2,Interface 2,B47 26,Conectado,Interface (B),False
+68,Sinal 68,YGENX,Amarelo,Interface 2,Interface 2,B47 28,Conectado,Interface (B),False
+52,Sinal 52,RGE,Vermelho,Locação 21,Locação,LB C-27,Conectado,LB,False
+52,Sinal 52,RGENX,Vermelho,Locação 21,Locação,LB C-25,Conectado,LB,False
+52,Sinal 52,YGE,Amarelo,Locação 21,Locação,LB C-29,Conectado,LB,False
+52,Sinal 52,YGENX,Amarelo,Locação 21,Locação,LB C-31,Conectado,LB,False
+52,Sinal 52,RGE,Vermelho,Armário TB,Armário TB,,Não preenchido,,False
+52,Sinal 52,RGENX,Vermelho,Armário TB,Armário TB,,Não preenchido,,False
+52,Sinal 52,YGE,Amarelo,Armário TB,Armário TB,,Não preenchido,,False
+52,Sinal 52,YGENX,Amarelo,Armário TB,Armário TB,,Não preenchido,,False
+52,Sinal 52,RGE,Vermelho,Interface 2,Interface 2,B50 22,Conectado,Interface (B),False
+52,Sinal 52,RGENX,Vermelho,Interface 2,Interface 2,B50 24,Conectado,Interface (B),False
+52,Sinal 52,YGE,Amarelo,Interface 2,Interface 2,B50 26,Conectado,Interface (B),False
+52,Sinal 52,YGENX,Amarelo,Interface 2,Interface 2,B50 28,Conectado,Interface (B),False
+54,Sinal 54,RGE,Vermelho,Locação 21,Locação,LB C-15,Conectado,LB,False
+54,Sinal 54,RGENX,Vermelho,Locação 21,Locação,LB C-13,Conectado,LB,False
+54,Sinal 54,YGE,Amarelo,Locação 21,Locação,LB C-17,Conectado,LB,False
+54,Sinal 54,YGENX,Amarelo,Locação 21,Locação,LB C-19,Conectado,LB,False
+54,Sinal 54,RGE,Vermelho,Armário TB,Armário TB,TB3-D57,Conectado,TB,False
+54,Sinal 54,RGENX,Vermelho,Armário TB,Armário TB,,Não preenchido,,False
+54,Sinal 54,YGE,Amarelo,Armário TB,Armário TB,TB3-D58,Conectado,TB,False
+54,Sinal 54,YGENX,Amarelo,Armário TB,Armário TB,TB3-D59,Conectado,TB,False
+54,Sinal 54,RGE,Vermelho,Interface 2,Interface 2,B51 22,Conectado,Interface (B),False
+54,Sinal 54,RGENX,Vermelho,Interface 2,Interface 2,B51 24,Conectado,Interface (B),False
+54,Sinal 54,YGE,Amarelo,Interface 2,Interface 2,B51 26,Conectado,Interface (B),False
+54,Sinal 54,YGENX,Amarelo,Interface 2,Interface 2,B51 28,Conectado,Interface (B),False
+56,Sinal 56,RGE,Vermelho,Locação 23,Locação,LB B-36,Conectado,LB,False
+56,Sinal 56,RGENX,Vermelho,Locação 23,Locação,LB B-34,Conectado,LB,False
+56,Sinal 56,YGE,Amarelo,Locação 23,Locação,LB B-38,Conectado,LB,False
+56,Sinal 56,YGENX,Amarelo,Locação 23,Locação,LB B-40,Conectado,LB,False
+56,Sinal 56,RGE,Vermelho,Locação 18,Locação,LC E-4,Conectado,LC,False
+56,Sinal 56,RGENX,Vermelho,Locação 18,Locação,LC E-2,Conectado,LC,False
+56,Sinal 56,YGE,Amarelo,Locação 18,Locação,LC E-6,Conectado,LC,False
+56,Sinal 56,YGENX,Amarelo,Locação 18,Locação,LC E-8,Conectado,LC,False
+56,Sinal 56,RGE,Vermelho,Locação 17,Locação,LB E-4,Conectado,LB,False
+56,Sinal 56,RGENX,Vermelho,Locação 17,Locação,LB E-2,Conectado,LB,False
+56,Sinal 56,YGE,Amarelo,Locação 17,Locação,LB E-6,Conectado,LB,False
+56,Sinal 56,YGENX,Amarelo,Locação 17,Locação,LB E-8,Conectado,LB,False
+56,Sinal 56,RGE,Vermelho,Armário TB,Armário TB,,Não preenchido,,False
+56,Sinal 56,RGENX,Vermelho,Armário TB,Armário TB,,Não preenchido,,False
+56,Sinal 56,YGE,Amarelo,Armário TB,Armário TB,,Não preenchido,,False
+56,Sinal 56,YGENX,Amarelo,Armário TB,Armário TB,,Não preenchido,,False
+56,Sinal 56,RGE,Vermelho,Interface 2,Interface 2,B50 30,Conectado,Interface (B),False
+56,Sinal 56,RGENX,Vermelho,Interface 2,Interface 2,B50 32,Conectado,Interface (B),False
+56,Sinal 56,YGE,Amarelo,Interface 2,Interface 2,B51 30,Conectado,Interface (B),False
+56,Sinal 56,YGENX,Amarelo,Interface 2,Interface 2,B51 32,Conectado,Interface (B),False
