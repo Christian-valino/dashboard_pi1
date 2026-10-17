@@ -35,6 +35,8 @@ def carregar():
         limpeza.main()
     sinais = pd.read_csv(PASTA / "sinais_tratado.csv")
     cdvs = pd.read_csv(PASTA / "cdvs_tratado.csv")
+    # Nome original do CDV, sem o sufixo (A), (B)... usado para blocos com nome repetido na planilha
+    cdvs["cdv_base"] = cdvs["cdv"].str.replace(r" \(.\)$", "", regex=True)
     log = pd.read_csv(PASTA / "log_qualidade.csv")
     return sinais, cdvs, log
 
@@ -99,7 +101,7 @@ with aba1:
 
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Sinais levantados", sinais["sinal"].nunique())
-    c2.metric("CDVs levantados", cdvs["cdv"].nunique())
+    c2.metric("CDVs levantados", cdvs["cdv_base"].nunique())
     c3.metric("Locações diferentes", len(locs_sinais | locs_cdvs))
     c4.metric("Pontos de ligação registrados", pontos)
 
@@ -110,7 +112,7 @@ with aba1:
         ls = (sinais[(sinais.tipo_local == "Locação")].groupby("local")["sinal"].nunique()
               .rename("Sinais"))
         lc = (cdvs[(cdvs.tipo_local == "Locação") & (cdvs.status == "Conectado")]
-              .groupby("local")["cdv"].nunique().rename("CDVs"))
+              .groupby("local")["cdv_base"].nunique().rename("CDVs"))
         loc = pd.concat([ls, lc], axis=1).fillna(0).astype(int)
         loc["Total"] = loc.sum(axis=1)
         loc = loc.sort_values("Total", ascending=False).head(10).drop(columns="Total")
@@ -203,7 +205,7 @@ with aba3:
                 "(TPR, TPRN). O nome do CDV indica a via e o sentido, por exemplo **1N08T** = Via 1, Norte, nº 08.")
 
     c1, c2, c3, c4 = st.columns(4)
-    c1.metric("CDVs", cdvs_f["cdv"].nunique())
+    c1.metric("CDVs", cdvs_f["cdv_base"].nunique())
     c2.metric("Locações diferentes", cdvs_f.loc[cdvs_f.tipo_local == "Locação", "local"].nunique())
     c3.metric("Pontos conectados", int((cdvs_f.status == "Conectado").sum()))
     c4.metric("Funções 'sem conexão'", f"{(cdvs_f.status == 'Sem conexão').mean() * 100:.0f}%")

@@ -30,7 +30,7 @@ O projeto parte de duas planilhas de levantamento de equipamentos ferroviários 
 │   ├── levantamento_BD_Sinais_via_1_e_2.xlsx   # base original
 │   ├── levantamento_BD_CDVs_via_1_e_2.xlsx     # base original
 │   ├── sinais_tratado.csv                      # base tratada (260 linhas, 19 sinais)
-│   ├── cdvs_tratado.csv                        # base tratada (677 linhas, 24 CDVs)
+│   ├── cdvs_tratado.csv                        # base tratada (677 linhas, 21 CDVs únicos em 24 blocos)
 │   └── log_qualidade.csv                       # correções feitas e pontos a conferir
 └── docs/                   # imagens do README
 ```
